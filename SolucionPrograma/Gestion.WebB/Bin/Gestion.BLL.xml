@@ -1,0 +1,70 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Gestion.BLL
+</name>
+</assembly>
+<members>
+<member name="T:My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="M:BLLCategoria.MostrarCategorias(BLLCategoria.TipoCatalogo)">
+ <summary>
+ Muestra las categorias segun el tipo de Catalogo que puede ser Insumo, Producto o Servicio
+ </summary>
+ <param name="TipoCatalogoID"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:BLLSubCategoria.MostrarSubCategorias(System.Int32)">
+ <summary>
+ Muestra las subcategorias segun la categoria seleccionada
+ </summary>
+ <param name="CategoriaID"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:BLLEncuesta.InsertarEncuesta(Encuesta)">
+ <summary>
+ Ingresa una encuesta con la lista de opciones para votar.
+ </summary>
+ <param name="UnaEncuesta"></param>
+ <remarks></remarks>
+</member>
+<member name="M:BLLEncuesta.MostrarEncuesta(System.Int32)">
+ <summary>
+ Muestra una encuesta con la lista de opciones.
+ </summary>
+ <param name="EncuestaID"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:BLLProducto.InsertarProducto(Productos)">
+ <summary>
+ Inserta el producto con su precio
+ </summary>
+ <param name="UnProducto"></param>
+</member>
+<member name="M:BLLorden.MostrarOrden(System.Int32)">
+ <summary>
+ Se Muestra una orden de compra completa
+ </summary>
+ <param name="ID"></param>
+ <returns></returns>
+</member>
+</members>
+</doc>

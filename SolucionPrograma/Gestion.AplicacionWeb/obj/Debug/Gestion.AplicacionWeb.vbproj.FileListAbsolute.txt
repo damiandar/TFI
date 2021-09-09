@@ -1,0 +1,1 @@
+C:\SolucionTP\Gestion.Solucion\Gestion.AplicacionWeb\obj\Debug\Gestion.AplicacionWeb.vbprojResolveAssemblyReference.cache

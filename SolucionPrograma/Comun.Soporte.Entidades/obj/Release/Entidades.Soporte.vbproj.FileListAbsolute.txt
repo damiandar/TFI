@@ -1,0 +1,13 @@
+C:\SolucionTP\Entidades.Soporte\obj\Release\ResolveAssemblyReference.cache
+C:\SolucionTP\Entidades.Soporte\obj\Release\Resources.resources
+C:\SolucionTP\Entidades.Soporte\obj\Release\GenerateResource.read.1.tlog
+C:\SolucionTP\Entidades.Soporte\obj\Release\GenerateResource.write.1.tlog
+C:\SolucionTP\Entidades.Soporte\bin\Release\Entidades.Soporte.dll
+C:\SolucionTP\Entidades.Soporte\bin\Release\Entidades.Soporte.pdb
+C:\SolucionTP\Entidades.Soporte\bin\Release\Entidades.Soporte.xml
+C:\SolucionTP\Entidades.Soporte\bin\Release\Entidades.Seguridad.dll
+C:\SolucionTP\Entidades.Soporte\bin\Release\Entidades.Seguridad.pdb
+C:\SolucionTP\Entidades.Soporte\bin\Release\Entidades.Seguridad.xml
+C:\SolucionTP\Entidades.Soporte\obj\Release\Entidades.Soporte.dll
+C:\SolucionTP\Entidades.Soporte\obj\Release\Entidades.Soporte.xml
+C:\SolucionTP\Entidades.Soporte\obj\Release\Entidades.Soporte.pdb

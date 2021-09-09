@@ -1,0 +1,72 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+BLL.Seguridad
+</name>
+</assembly>
+<members>
+<member name="T:My.Resources.Resources">
+<summary>
+  Clase de recurso con establecimiento inflexible de tipos, para buscar cadenas traducidas, etc.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.ResourceManager">
+<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.Culture">
+<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso con establecimiento inflexible de tipos.
+</summary>
+</member>
+<member name="M:Mapper_Familia.MuestraUnaFamilia(System.Int32)">
+ <summary>
+ Muestra una familia 
+ </summary>
+ <param name="IdFamilia"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:Mapper_Familia.Muestralistafamilia">
+ <summary>
+ Muestra el listado de familias
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:Mapper_Familia.InsertaFamilia(Familia)">
+ <summary>
+ Inserta una familia
+ </summary>
+ <param name="UnaFamilia"></param>
+ <remarks></remarks>
+</member>
+<member name="M:Mapper_Familia.MostrarFamiliaUsuario(System.String)">
+ <summary>
+ Muestra la familia del usuario seleccionado.
+ </summary>
+ <param name="Login"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:Mapper_Familia.ModificarRolUsuario(System.String,System.Int32)">
+ <summary>
+ Modifica la familia del usuario
+ </summary>
+ <param name="Login"></param>
+ <param name="idFamilia"></param>
+ <remarks></remarks>
+</member>
+<member name="M:Mapper_Familia.AsignarRol(System.Int32,System.String)">
+ <summary>
+ Asigna la familia al usuario
+ </summary>
+ <param name="idFamilia"></param>
+ <param name="login"></param>
+ <remarks></remarks>
+</member>
+</members>
+</doc>

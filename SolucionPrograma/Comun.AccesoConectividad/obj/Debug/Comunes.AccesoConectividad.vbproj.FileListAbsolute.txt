@@ -1,0 +1,147 @@
+C:\SolucionTP\Gestion.Solucion\Comun.AccesoConectividad\bin\Debug\DAL.dll
+C:\SolucionTP\Gestion.Solucion\Comun.AccesoConectividad\bin\Debug\DAL.pdb
+C:\SolucionTP\Gestion.Solucion\Comun.AccesoConectividad\bin\Debug\DAL.xml
+C:\SolucionTP\Gestion.Solucion\Comun.AccesoConectividad\bin\Debug\Entidades.Seguridad.dll
+C:\SolucionTP\Gestion.Solucion\Comun.AccesoConectividad\bin\Debug\Entidades.Seguridad.pdb
+C:\SolucionTP\Gestion.Solucion\Comun.AccesoConectividad\bin\Debug\Entidades.Seguridad.xml
+C:\SolucionTP\Gestion.Solucion\Comun.AccesoConectividad\obj\Debug\Comunes.AccesoConectividad.vbprojResolveAssemblyReference.cache
+C:\SolucionTP\Gestion.Solucion\Comun.AccesoConectividad\obj\Debug\Resources.resources
+C:\SolucionTP\Gestion.Solucion\Comun.AccesoConectividad\obj\Debug\Comunes.AccesoConectividad.vbproj.GenerateResource.Cache
+C:\SolucionTP\Gestion.Solucion\Comun.AccesoConectividad\obj\Debug\DAL.dll
+C:\SolucionTP\Gestion.Solucion\Comun.AccesoConectividad\obj\Debug\DAL.xml
+C:\SolucionTP\Gestion.Solucion\Comun.AccesoConectividad\obj\Debug\DAL.pdb
+C:\Users\Gisela\Desktop\SolucionTP\Gestion.Solucion\Comun.AccesoConectividad\bin\Debug\DAL.dll
+C:\Users\Gisela\Desktop\SolucionTP\Gestion.Solucion\Comun.AccesoConectividad\bin\Debug\DAL.pdb
+C:\Users\Gisela\Desktop\SolucionTP\Gestion.Solucion\Comun.AccesoConectividad\bin\Debug\DAL.xml
+C:\Users\Gisela\Desktop\SolucionTP\Gestion.Solucion\Comun.AccesoConectividad\obj\Debug\Comunes.AccesoConectividad.vbprojResolveAssemblyReference.cache
+C:\Users\Gisela\Desktop\SolucionTP\Gestion.Solucion\Comun.AccesoConectividad\obj\Debug\Resources.resources
+C:\Users\Gisela\Desktop\SolucionTP\Gestion.Solucion\Comun.AccesoConectividad\obj\Debug\Comunes.AccesoConectividad.vbproj.GenerateResource.Cache
+C:\Users\Gisela\Desktop\SolucionTP\Gestion.Solucion\Comun.AccesoConectividad\obj\Debug\DAL.dll
+C:\Users\Gisela\Desktop\SolucionTP\Gestion.Solucion\Comun.AccesoConectividad\obj\Debug\DAL.xml
+C:\Users\Gisela\Desktop\SolucionTP\Gestion.Solucion\Comun.AccesoConectividad\obj\Debug\DAL.pdb
+C:\Users\Gisela\Desktop\SolucionTPv3\Gestion.Solucion\Comun.AccesoConectividad\bin\Debug\DAL.dll
+C:\Users\Gisela\Desktop\SolucionTPv3\Gestion.Solucion\Comun.AccesoConectividad\bin\Debug\DAL.pdb
+C:\Users\Gisela\Desktop\SolucionTPv3\Gestion.Solucion\Comun.AccesoConectividad\bin\Debug\DAL.xml
+C:\Users\Gisela\Desktop\SolucionTPv3\Gestion.Solucion\Comun.AccesoConectividad\obj\Debug\Comunes.AccesoConectividad.vbprojResolveAssemblyReference.cache
+C:\Users\Gisela\Desktop\SolucionTPv3\Gestion.Solucion\Comun.AccesoConectividad\obj\Debug\Resources.resources
+C:\Users\Gisela\Desktop\SolucionTPv3\Gestion.Solucion\Comun.AccesoConectividad\obj\Debug\Comunes.AccesoConectividad.vbproj.GenerateResource.Cache
+C:\Users\Gisela\Desktop\SolucionTPv3\Gestion.Solucion\Comun.AccesoConectividad\obj\Debug\DAL.dll
+C:\Users\Gisela\Desktop\SolucionTPv3\Gestion.Solucion\Comun.AccesoConectividad\obj\Debug\DAL.xml
+C:\Users\Gisela\Desktop\SolucionTPv3\Gestion.Solucion\Comun.AccesoConectividad\obj\Debug\DAL.pdb
+C:\Users\Gisela\Desktop\SolucionTPv7\Gestion.Solucion\Comun.AccesoConectividad\bin\Debug\DAL.dll
+C:\Users\Gisela\Desktop\SolucionTPv7\Gestion.Solucion\Comun.AccesoConectividad\bin\Debug\DAL.pdb
+C:\Users\Gisela\Desktop\SolucionTPv7\Gestion.Solucion\Comun.AccesoConectividad\bin\Debug\DAL.xml
+C:\Users\Gisela\Desktop\SolucionTPv7\Gestion.Solucion\Comun.AccesoConectividad\obj\Debug\Comunes.AccesoConectividad.vbprojResolveAssemblyReference.cache
+C:\Users\Gisela\Desktop\SolucionTPv7\Gestion.Solucion\Comun.AccesoConectividad\obj\Debug\Resources.resources
+C:\Users\Gisela\Desktop\SolucionTPv7\Gestion.Solucion\Comun.AccesoConectividad\obj\Debug\Comunes.AccesoConectividad.vbproj.GenerateResource.Cache
+C:\Users\Gisela\Desktop\SolucionTPv7\Gestion.Solucion\Comun.AccesoConectividad\obj\Debug\DAL.dll
+C:\Users\Gisela\Desktop\SolucionTPv7\Gestion.Solucion\Comun.AccesoConectividad\obj\Debug\DAL.xml
+C:\Users\Gisela\Desktop\SolucionTPv7\Gestion.Solucion\Comun.AccesoConectividad\obj\Debug\DAL.pdb
+C:\Users\Gisela\Desktop\SolucionTPv9\Gestion.Solucion\Comun.AccesoConectividad\bin\Debug\DAL.dll
+C:\Users\Gisela\Desktop\SolucionTPv9\Gestion.Solucion\Comun.AccesoConectividad\bin\Debug\DAL.pdb
+C:\Users\Gisela\Desktop\SolucionTPv9\Gestion.Solucion\Comun.AccesoConectividad\bin\Debug\DAL.xml
+C:\Users\Gisela\Desktop\SolucionTPv9\Gestion.Solucion\Comun.AccesoConectividad\obj\Debug\Comunes.AccesoConectividad.vbprojResolveAssemblyReference.cache
+C:\Users\Gisela\Desktop\SolucionTPv9\Gestion.Solucion\Comun.AccesoConectividad\obj\Debug\Resources.resources
+C:\Users\Gisela\Desktop\SolucionTPv9\Gestion.Solucion\Comun.AccesoConectividad\obj\Debug\Comunes.AccesoConectividad.vbproj.GenerateResource.Cache
+C:\Users\Gisela\Desktop\SolucionTPv9\Gestion.Solucion\Comun.AccesoConectividad\obj\Debug\DAL.dll
+C:\Users\Gisela\Desktop\SolucionTPv9\Gestion.Solucion\Comun.AccesoConectividad\obj\Debug\DAL.xml
+C:\Users\Gisela\Desktop\SolucionTPv9\Gestion.Solucion\Comun.AccesoConectividad\obj\Debug\DAL.pdb
+C:\Users\Gisela\Desktop\SolucionTPv11\SolucionTPv9\Gestion.Solucion\Comun.AccesoConectividad\bin\Debug\DAL.dll
+C:\Users\Gisela\Desktop\SolucionTPv11\SolucionTPv9\Gestion.Solucion\Comun.AccesoConectividad\bin\Debug\DAL.pdb
+C:\Users\Gisela\Desktop\SolucionTPv11\SolucionTPv9\Gestion.Solucion\Comun.AccesoConectividad\bin\Debug\DAL.xml
+C:\Users\Gisela\Desktop\SolucionTPv11\SolucionTPv9\Gestion.Solucion\Comun.AccesoConectividad\obj\Debug\Comunes.AccesoConectividad.vbprojResolveAssemblyReference.cache
+C:\Users\Gisela\Desktop\SolucionTPv11\SolucionTPv9\Gestion.Solucion\Comun.AccesoConectividad\obj\Debug\Resources.resources
+C:\Users\Gisela\Desktop\SolucionTPv11\SolucionTPv9\Gestion.Solucion\Comun.AccesoConectividad\obj\Debug\Comunes.AccesoConectividad.vbproj.GenerateResource.Cache
+C:\Users\Gisela\Desktop\SolucionTPv11\SolucionTPv9\Gestion.Solucion\Comun.AccesoConectividad\obj\Debug\DAL.dll
+C:\Users\Gisela\Desktop\SolucionTPv11\SolucionTPv9\Gestion.Solucion\Comun.AccesoConectividad\obj\Debug\DAL.xml
+C:\Users\Gisela\Desktop\SolucionTPv11\SolucionTPv9\Gestion.Solucion\Comun.AccesoConectividad\obj\Debug\DAL.pdb
+C:\Users\Gisela\Desktop\SolucionTPv13\SolucionTPv9\Gestion.Solucion\Comun.AccesoConectividad\bin\Debug\DAL.dll
+C:\Users\Gisela\Desktop\SolucionTPv13\SolucionTPv9\Gestion.Solucion\Comun.AccesoConectividad\bin\Debug\DAL.pdb
+C:\Users\Gisela\Desktop\SolucionTPv13\SolucionTPv9\Gestion.Solucion\Comun.AccesoConectividad\bin\Debug\DAL.xml
+C:\Users\Gisela\Desktop\SolucionTPv13\SolucionTPv9\Gestion.Solucion\Comun.AccesoConectividad\obj\Debug\Comunes.AccesoConectividad.vbprojResolveAssemblyReference.cache
+C:\Users\Gisela\Desktop\SolucionTPv13\SolucionTPv9\Gestion.Solucion\Comun.AccesoConectividad\obj\Debug\Resources.resources
+C:\Users\Gisela\Desktop\SolucionTPv13\SolucionTPv9\Gestion.Solucion\Comun.AccesoConectividad\obj\Debug\Comunes.AccesoConectividad.vbproj.GenerateResource.Cache
+C:\Users\Gisela\Desktop\SolucionTPv13\SolucionTPv9\Gestion.Solucion\Comun.AccesoConectividad\obj\Debug\DAL.dll
+C:\Users\Gisela\Desktop\SolucionTPv13\SolucionTPv9\Gestion.Solucion\Comun.AccesoConectividad\obj\Debug\DAL.xml
+C:\Users\Gisela\Desktop\SolucionTPv13\SolucionTPv9\Gestion.Solucion\Comun.AccesoConectividad\obj\Debug\DAL.pdb
+F:\NUEVO\Solucion TFI\SolucionTPv9\Gestion.Solucion\Comun.AccesoConectividad\bin\Debug\DAL.dll
+F:\NUEVO\Solucion TFI\SolucionTPv9\Gestion.Solucion\Comun.AccesoConectividad\bin\Debug\DAL.pdb
+F:\NUEVO\Solucion TFI\SolucionTPv9\Gestion.Solucion\Comun.AccesoConectividad\bin\Debug\DAL.xml
+F:\NUEVO\Solucion TFI\SolucionTPv9\Gestion.Solucion\Comun.AccesoConectividad\obj\Debug\Comunes.AccesoConectividad.vbprojResolveAssemblyReference.cache
+F:\NUEVO\Solucion TFI\SolucionTPv9\Gestion.Solucion\Comun.AccesoConectividad\obj\Debug\Resources.resources
+F:\NUEVO\Solucion TFI\SolucionTPv9\Gestion.Solucion\Comun.AccesoConectividad\obj\Debug\Comunes.AccesoConectividad.vbproj.GenerateResource.Cache
+F:\NUEVO\Solucion TFI\SolucionTPv9\Gestion.Solucion\Comun.AccesoConectividad\obj\Debug\DAL.dll
+F:\NUEVO\Solucion TFI\SolucionTPv9\Gestion.Solucion\Comun.AccesoConectividad\obj\Debug\DAL.xml
+F:\NUEVO\Solucion TFI\SolucionTPv9\Gestion.Solucion\Comun.AccesoConectividad\obj\Debug\DAL.pdb
+C:\Users\Gisela\Desktop\NUEVO\Solucion TFI\SolucionTPv9\Gestion.Solucion\Comun.AccesoConectividad\bin\Debug\DAL.dll
+C:\Users\Gisela\Desktop\NUEVO\Solucion TFI\SolucionTPv9\Gestion.Solucion\Comun.AccesoConectividad\bin\Debug\DAL.pdb
+C:\Users\Gisela\Desktop\NUEVO\Solucion TFI\SolucionTPv9\Gestion.Solucion\Comun.AccesoConectividad\bin\Debug\DAL.xml
+C:\Users\Gisela\Desktop\NUEVO\Solucion TFI\SolucionTPv9\Gestion.Solucion\Comun.AccesoConectividad\obj\Debug\Comunes.AccesoConectividad.vbprojResolveAssemblyReference.cache
+C:\Users\Gisela\Desktop\NUEVO\Solucion TFI\SolucionTPv9\Gestion.Solucion\Comun.AccesoConectividad\obj\Debug\Resources.resources
+C:\Users\Gisela\Desktop\NUEVO\Solucion TFI\SolucionTPv9\Gestion.Solucion\Comun.AccesoConectividad\obj\Debug\Comunes.AccesoConectividad.vbproj.GenerateResource.Cache
+C:\Users\Gisela\Desktop\NUEVO\Solucion TFI\SolucionTPv9\Gestion.Solucion\Comun.AccesoConectividad\obj\Debug\DAL.dll
+C:\Users\Gisela\Desktop\NUEVO\Solucion TFI\SolucionTPv9\Gestion.Solucion\Comun.AccesoConectividad\obj\Debug\DAL.xml
+C:\Users\Gisela\Desktop\NUEVO\Solucion TFI\SolucionTPv9\Gestion.Solucion\Comun.AccesoConectividad\obj\Debug\DAL.pdb
+C:\Users\Administrador\Desktop\Gestion.Solucion\Comun.AccesoConectividad\bin\Debug\DAL.dll
+C:\Users\Administrador\Desktop\Gestion.Solucion\Comun.AccesoConectividad\bin\Debug\DAL.pdb
+C:\Users\Administrador\Desktop\Gestion.Solucion\Comun.AccesoConectividad\bin\Debug\DAL.xml
+C:\Users\Administrador\Desktop\Gestion.Solucion\Comun.AccesoConectividad\obj\Debug\Comunes.AccesoConectividad.vbprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Gestion.Solucion\Comun.AccesoConectividad\obj\Debug\Resources.resources
+C:\Users\Administrador\Desktop\Gestion.Solucion\Comun.AccesoConectividad\obj\Debug\Comunes.AccesoConectividad.vbproj.GenerateResource.Cache
+C:\Users\Administrador\Desktop\Gestion.Solucion\Comun.AccesoConectividad\obj\Debug\DAL.dll
+C:\Users\Administrador\Desktop\Gestion.Solucion\Comun.AccesoConectividad\obj\Debug\DAL.xml
+C:\Users\Administrador\Desktop\Gestion.Solucion\Comun.AccesoConectividad\obj\Debug\DAL.pdb
+C:\Users\arosso\Desktop\TTTTOOOODOOOO\Gestion.Solucion\Comun.AccesoConectividad\bin\Debug\DAL.dll
+C:\Users\arosso\Desktop\TTTTOOOODOOOO\Gestion.Solucion\Comun.AccesoConectividad\bin\Debug\DAL.pdb
+C:\Users\arosso\Desktop\TTTTOOOODOOOO\Gestion.Solucion\Comun.AccesoConectividad\bin\Debug\DAL.xml
+C:\Users\arosso\Desktop\TTTTOOOODOOOO\Gestion.Solucion\Comun.AccesoConectividad\obj\Debug\Comunes.AccesoConectividad.vbprojResolveAssemblyReference.cache
+C:\Users\arosso\Desktop\TTTTOOOODOOOO\Gestion.Solucion\Comun.AccesoConectividad\obj\Debug\Resources.resources
+C:\Users\arosso\Desktop\TTTTOOOODOOOO\Gestion.Solucion\Comun.AccesoConectividad\obj\Debug\Comunes.AccesoConectividad.vbproj.GenerateResource.Cache
+C:\Users\arosso\Desktop\TTTTOOOODOOOO\Gestion.Solucion\Comun.AccesoConectividad\obj\Debug\DAL.dll
+C:\Users\arosso\Desktop\TTTTOOOODOOOO\Gestion.Solucion\Comun.AccesoConectividad\obj\Debug\DAL.xml
+C:\Users\arosso\Desktop\TTTTOOOODOOOO\Gestion.Solucion\Comun.AccesoConectividad\obj\Debug\DAL.pdb
+C:\Users\arosso\Desktop\Version4\Comun.AccesoConectividad\bin\Debug\DAL.dll
+C:\Users\arosso\Desktop\Version4\Comun.AccesoConectividad\bin\Debug\DAL.pdb
+C:\Users\arosso\Desktop\Version4\Comun.AccesoConectividad\bin\Debug\DAL.xml
+C:\Users\arosso\Desktop\Version4\Comun.AccesoConectividad\obj\Debug\Comunes.AccesoConectividad.vbprojResolveAssemblyReference.cache
+C:\Users\arosso\Desktop\Version4\Comun.AccesoConectividad\obj\Debug\Resources.resources
+C:\Users\arosso\Desktop\Version4\Comun.AccesoConectividad\obj\Debug\Comunes.AccesoConectividad.vbproj.GenerateResource.Cache
+C:\Users\arosso\Desktop\Version4\Comun.AccesoConectividad\obj\Debug\DAL.dll
+C:\Users\arosso\Desktop\Version4\Comun.AccesoConectividad\obj\Debug\DAL.xml
+C:\Users\arosso\Desktop\Version4\Comun.AccesoConectividad\obj\Debug\DAL.pdb
+C:\DD\TFI\Gestion.Solucion\Version22\Comun.AccesoConectividad\bin\Debug\DAL.dll
+C:\DD\TFI\Gestion.Solucion\Version22\Comun.AccesoConectividad\bin\Debug\DAL.pdb
+C:\DD\TFI\Gestion.Solucion\Version22\Comun.AccesoConectividad\bin\Debug\DAL.xml
+C:\DD\TFI\Gestion.Solucion\Version22\Comun.AccesoConectividad\obj\Debug\Comunes.AccesoConectividad.vbprojResolveAssemblyReference.cache
+C:\DD\TFI\Gestion.Solucion\Version22\Comun.AccesoConectividad\obj\Debug\Resources.resources
+C:\DD\TFI\Gestion.Solucion\Version22\Comun.AccesoConectividad\obj\Debug\Comunes.AccesoConectividad.vbproj.GenerateResource.Cache
+C:\DD\TFI\Gestion.Solucion\Version22\Comun.AccesoConectividad\obj\Debug\DAL.dll
+C:\DD\TFI\Gestion.Solucion\Version22\Comun.AccesoConectividad\obj\Debug\DAL.xml
+C:\DD\TFI\Gestion.Solucion\Version22\Comun.AccesoConectividad\obj\Debug\DAL.pdb
+C:\Users\drosso\Desktop\Version28\Comun.AccesoConectividad\bin\Debug\DAL.dll
+C:\Users\drosso\Desktop\Version28\Comun.AccesoConectividad\bin\Debug\DAL.pdb
+C:\Users\drosso\Desktop\Version28\Comun.AccesoConectividad\bin\Debug\DAL.xml
+C:\Users\drosso\Desktop\Version28\Comun.AccesoConectividad\obj\Debug\Comunes.AccesoConectividad.vbprojResolveAssemblyReference.cache
+C:\Users\drosso\Desktop\Version28\Comun.AccesoConectividad\obj\Debug\Resources.resources
+C:\Users\drosso\Desktop\Version28\Comun.AccesoConectividad\obj\Debug\Comunes.AccesoConectividad.vbproj.GenerateResource.Cache
+C:\Users\drosso\Desktop\Version28\Comun.AccesoConectividad\obj\Debug\DAL.dll
+C:\Users\drosso\Desktop\Version28\Comun.AccesoConectividad\obj\Debug\DAL.xml
+C:\Users\drosso\Desktop\Version28\Comun.AccesoConectividad\obj\Debug\DAL.pdb
+C:\DD\TFI\Gestion.Solucion\Version37\Version37\Comun.AccesoConectividad\bin\Debug\DAL.dll
+C:\DD\TFI\Gestion.Solucion\Version37\Version37\Comun.AccesoConectividad\bin\Debug\DAL.pdb
+C:\DD\TFI\Gestion.Solucion\Version37\Version37\Comun.AccesoConectividad\bin\Debug\DAL.xml
+C:\DD\TFI\Gestion.Solucion\Version37\Version37\Comun.AccesoConectividad\obj\Debug\Comunes.AccesoConectividad.vbprojResolveAssemblyReference.cache
+C:\DD\TFI\Gestion.Solucion\Version37\Version37\Comun.AccesoConectividad\obj\Debug\Resources.resources
+C:\DD\TFI\Gestion.Solucion\Version37\Version37\Comun.AccesoConectividad\obj\Debug\Comunes.AccesoConectividad.vbproj.GenerateResource.Cache
+C:\DD\TFI\Gestion.Solucion\Version37\Version37\Comun.AccesoConectividad\obj\Debug\DAL.dll
+C:\DD\TFI\Gestion.Solucion\Version37\Version37\Comun.AccesoConectividad\obj\Debug\DAL.xml
+C:\DD\TFI\Gestion.Solucion\Version37\Version37\Comun.AccesoConectividad\obj\Debug\DAL.pdb
+C:\DD\TFI\Gestion.Solucion\Version71\Comun.AccesoConectividad\bin\Debug\DAL.dll
+C:\DD\TFI\Gestion.Solucion\Version71\Comun.AccesoConectividad\bin\Debug\DAL.pdb
+C:\DD\TFI\Gestion.Solucion\Version71\Comun.AccesoConectividad\bin\Debug\DAL.xml
+C:\DD\TFI\Gestion.Solucion\Version71\Comun.AccesoConectividad\obj\Debug\Comunes.AccesoConectividad.vbprojResolveAssemblyReference.cache
+C:\DD\TFI\Gestion.Solucion\Version71\Comun.AccesoConectividad\obj\Debug\Resources.resources
+C:\DD\TFI\Gestion.Solucion\Version71\Comun.AccesoConectividad\obj\Debug\Comunes.AccesoConectividad.vbproj.GenerateResource.Cache
+C:\DD\TFI\Gestion.Solucion\Version71\Comun.AccesoConectividad\obj\Debug\DAL.dll
+C:\DD\TFI\Gestion.Solucion\Version71\Comun.AccesoConectividad\obj\Debug\DAL.xml
+C:\DD\TFI\Gestion.Solucion\Version71\Comun.AccesoConectividad\obj\Debug\DAL.pdb

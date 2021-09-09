@@ -1,0 +1,108 @@
+﻿<%@ Master Language="VB" CodeFile="Inicio.master.vb" Inherits="Inicio" %>
+
+<%@ Register src="controles/login/login.ascx" tagname="login" tagprefix="uc1" %>
+<%@ Register src="controles/login/recuperar.ascx" tagname="recuperar" tagprefix="uc2" %>
+<%@ Register src="controles/login/registrar.ascx" tagname="registrar" tagprefix="uc3" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>::Entrar al sistema::</title>
+    <link type="text/css" href="assets/css/bootstrap.min.css" rel="stylesheet" />
+    <link type="text/css" href="assets/css/estilologin.css" rel="stylesheet" />
+    <link type="text/css" href="assets/font-awesome/css/font-awesome.min.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <asp:ScriptManager ID="ScriptManager1" runat="server">
+    </asp:ScriptManager>
+    <div>
+    <!-- BEGIN # BOOTSNIP INFO -->
+    <nav id="mainNav" class="navbar navbar-default navbar-custom navbar-fixed-top affix-top">
+        <div class="container">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header page-scroll">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span> Menu <i class="fa fa-bars"></i>
+                </button>
+                <a class="navbar-brand page-scroll" href="#page-top">LAVADERO BOUTIQUE</a>
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav navbar-right">
+                    <li class="hidden active">
+                        <a href="#page-top"></a>
+                    </li>
+                    <li class="">
+                        <a class="page-scroll" href="Default.aspx">Inicio</a>
+                    </li>
+                    <li class="">
+                        <a class="page-scroll" href="Servicios.aspx">Servicios</a>
+                    </li>
+                    <li class="">
+                        <a class="page-scroll" href="Contacto.aspx">Contacto</a>
+                    </li>
+                    <li class="">
+                        <a class="page-scroll" href="Terminos.aspx">Terminos y Condiciones</a>
+                    </li>
+                    <li class="">
+
+                        <a class="btn btn-primary btn-lg" role="button" style="color:White"  href="Login.aspx" >Entrar</a>
+                    </li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container-fluid -->
+    </nav>
+
+<!-- END # BOOTSNIP INFO -->
+    <div style="margin-top:100px">
+        <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+<%-- <footer class="navbar-fixed-bottom">
+    <div class="container" style="background-color:Gray; color:White;">
+        <div class="row">
+            <div class="col-md-4">
+                <span class="copyright">Copyright © Your Website 2016</span>
+            </div>
+            <div class="col-md-4">
+                    <ul class="list-inline social-buttons">
+                        <li><a href="#"><i class="fa fa-twitter"></i></a>
+                        </li>
+                        <li><a href="#"><i class="fa fa-facebook"></i></a>
+                        </li>
+                        <li><a href="#"><i class="fa fa-linkedin"></i></a>
+                        </li>
+                    </ul>
+            </div>
+           <div class="col-md-4">
+                    <ul class="list-inline quicklinks">
+                        <li><a href="#">Privacy Policy</a>
+                        </li>
+                        <li><a href="#">Terms of Use</a>
+                        </li>
+                    </ul>
+                </div>
+        </div>
+    </div>
+</footer>--%>
+
+
+<!-- jQuery -->
+<script type="text/javascript" src="assets/js/jquery.js"></script>
+<!-- Bootstrap Core JavaScript -->
+<script type="text/javascript" src="assets/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="assets/js/scriptlogin.js"></script>
+    
+
+    </div>
+    </form>
+</body>
+</html>

@@ -1,0 +1,134 @@
+D:\FACULTAD\5\2º cuatrimestre\TFI\TP\TFI\DAL\bin\Debug\DAL.dll
+D:\FACULTAD\5\2º cuatrimestre\TFI\TP\TFI\DAL\bin\Debug\DAL.pdb
+D:\FACULTAD\5\2º cuatrimestre\TFI\TP\TFI\DAL\bin\Debug\DAL.xml
+D:\FACULTAD\5\2º cuatrimestre\TFI\TP\TFI\DAL\bin\Debug\Entidades.dll
+D:\FACULTAD\5\2º cuatrimestre\TFI\TP\TFI\DAL\bin\Debug\Entidades.pdb
+D:\FACULTAD\5\2º cuatrimestre\TFI\TP\TFI\DAL\bin\Debug\Entidades.xml
+D:\FACULTAD\5\2º cuatrimestre\TFI\TP\TFI\DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\FACULTAD\5\2º cuatrimestre\TFI\TP\TFI\DAL\obj\Debug\Resources.resources
+D:\FACULTAD\5\2º cuatrimestre\TFI\TP\TFI\DAL\obj\Debug\GenerateResource.read.1.tlog
+D:\FACULTAD\5\2º cuatrimestre\TFI\TP\TFI\DAL\obj\Debug\GenerateResource.write.1.tlog
+D:\FACULTAD\5\2º cuatrimestre\TFI\TP\TFI\DAL\obj\Debug\DAL.dll
+D:\FACULTAD\5\2º cuatrimestre\TFI\TP\TFI\DAL\obj\Debug\DAL.xml
+D:\FACULTAD\5\2º cuatrimestre\TFI\TP\TFI\DAL\obj\Debug\DAL.pdb
+D:\FACULTAD\5\2º cuatrimestre\TFI\SolucionTP\DAL\bin\Debug\DAL.dll
+D:\FACULTAD\5\2º cuatrimestre\TFI\SolucionTP\DAL\bin\Debug\DAL.pdb
+D:\FACULTAD\5\2º cuatrimestre\TFI\SolucionTP\DAL\bin\Debug\DAL.xml
+D:\FACULTAD\5\2º cuatrimestre\TFI\SolucionTP\DAL\bin\Debug\Entidades.dll
+D:\FACULTAD\5\2º cuatrimestre\TFI\SolucionTP\DAL\bin\Debug\Entidades.pdb
+D:\FACULTAD\5\2º cuatrimestre\TFI\SolucionTP\DAL\bin\Debug\Entidades.xml
+D:\FACULTAD\5\2º cuatrimestre\TFI\SolucionTP\DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\FACULTAD\5\2º cuatrimestre\TFI\SolucionTP\DAL\obj\Debug\Resources.resources
+D:\FACULTAD\5\2º cuatrimestre\TFI\SolucionTP\DAL\obj\Debug\GenerateResource.read.1.tlog
+D:\FACULTAD\5\2º cuatrimestre\TFI\SolucionTP\DAL\obj\Debug\GenerateResource.write.1.tlog
+D:\FACULTAD\5\2º cuatrimestre\TFI\SolucionTP\DAL\obj\Debug\DAL.dll
+D:\FACULTAD\5\2º cuatrimestre\TFI\SolucionTP\DAL\obj\Debug\DAL.xml
+D:\FACULTAD\5\2º cuatrimestre\TFI\SolucionTP\DAL\obj\Debug\DAL.pdb
+E:\SolucionTP\DAL\bin\Debug\DAL.dll
+E:\SolucionTP\DAL\bin\Debug\DAL.pdb
+E:\SolucionTP\DAL\bin\Debug\DAL.xml
+E:\SolucionTP\DAL\bin\Debug\Entidades.dll
+E:\SolucionTP\DAL\bin\Debug\Entidades.pdb
+E:\SolucionTP\DAL\bin\Debug\Entidades.xml
+E:\SolucionTP\DAL\obj\Debug\Resources.resources
+E:\SolucionTP\DAL\obj\Debug\DAL.vbproj.GenerateResource.Cache
+E:\SolucionTP\DAL\obj\Debug\DAL.dll
+E:\SolucionTP\DAL\obj\Debug\DAL.xml
+E:\SolucionTP\DAL\obj\Debug\DAL.pdb
+E:\SolucionTP\DAL\obj\Debug\DAL.vbprojResolveAssemblyReference.cache
+C:\Users\arosso\Desktop\SolucionTP\SolucionTP\DAL\obj\Debug\DAL.vbprojResolveAssemblyReference.cache
+C:\Users\arosso\Desktop\SolucionTP\SolucionTP\DAL\obj\Debug\Resources.resources
+C:\Users\arosso\Desktop\SolucionTP\SolucionTP\DAL\obj\Debug\DAL.vbproj.GenerateResource.Cache
+C:\Users\arosso\Desktop\SolucionTP\SolucionTP\DAL\obj\Debug\DAL.dll
+C:\Users\arosso\Desktop\SolucionTP\SolucionTP\DAL\obj\Debug\DAL.xml
+C:\Users\arosso\Desktop\SolucionTP\SolucionTP\DAL\obj\Debug\DAL.pdb
+C:\Users\arosso\Desktop\SolucionTP\SolucionTP\DAL\bin\Debug\DAL.dll
+C:\Users\arosso\Desktop\SolucionTP\SolucionTP\DAL\bin\Debug\DAL.pdb
+C:\Users\arosso\Desktop\SolucionTP\SolucionTP\DAL\bin\Debug\DAL.xml
+C:\Users\arosso\Desktop\SolucionTP\SolucionTP\DAL\bin\Debug\Entidades.dll
+C:\Users\arosso\Desktop\SolucionTP\SolucionTP\DAL\bin\Debug\Entidades.pdb
+C:\Users\arosso\Desktop\SolucionTP\SolucionTP\DAL\bin\Debug\Entidades.xml
+D:\FACULTAD\5\2º cuatrimestre\TFI\SolucionTP\SolucionTP\SolucionTP\DAL\bin\Debug\DAL.dll
+D:\FACULTAD\5\2º cuatrimestre\TFI\SolucionTP\SolucionTP\SolucionTP\DAL\bin\Debug\DAL.pdb
+D:\FACULTAD\5\2º cuatrimestre\TFI\SolucionTP\SolucionTP\SolucionTP\DAL\bin\Debug\DAL.xml
+D:\FACULTAD\5\2º cuatrimestre\TFI\SolucionTP\SolucionTP\SolucionTP\DAL\bin\Debug\Entidades.dll
+D:\FACULTAD\5\2º cuatrimestre\TFI\SolucionTP\SolucionTP\SolucionTP\DAL\bin\Debug\Entidades.pdb
+D:\FACULTAD\5\2º cuatrimestre\TFI\SolucionTP\SolucionTP\SolucionTP\DAL\bin\Debug\Entidades.xml
+D:\FACULTAD\5\2º cuatrimestre\TFI\SolucionTP\SolucionTP\SolucionTP\DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\FACULTAD\5\2º cuatrimestre\TFI\SolucionTP\SolucionTP\SolucionTP\DAL\obj\Debug\Resources.resources
+D:\FACULTAD\5\2º cuatrimestre\TFI\SolucionTP\SolucionTP\SolucionTP\DAL\obj\Debug\GenerateResource.read.1.tlog
+D:\FACULTAD\5\2º cuatrimestre\TFI\SolucionTP\SolucionTP\SolucionTP\DAL\obj\Debug\GenerateResource.write.1.tlog
+D:\FACULTAD\5\2º cuatrimestre\TFI\SolucionTP\SolucionTP\SolucionTP\DAL\obj\Debug\DAL.dll
+D:\FACULTAD\5\2º cuatrimestre\TFI\SolucionTP\SolucionTP\SolucionTP\DAL\obj\Debug\DAL.xml
+D:\FACULTAD\5\2º cuatrimestre\TFI\SolucionTP\SolucionTP\SolucionTP\DAL\obj\Debug\DAL.pdb
+C:\Users\arosso\Desktop\SolucionTP\DAL\bin\Debug\DAL.dll
+C:\Users\arosso\Desktop\SolucionTP\DAL\bin\Debug\DAL.pdb
+C:\Users\arosso\Desktop\SolucionTP\DAL\bin\Debug\DAL.xml
+C:\Users\arosso\Desktop\SolucionTP\DAL\bin\Debug\Entidades.dll
+C:\Users\arosso\Desktop\SolucionTP\DAL\bin\Debug\Entidades.pdb
+C:\Users\arosso\Desktop\SolucionTP\DAL\bin\Debug\Entidades.xml
+C:\Users\arosso\Desktop\SolucionTP\DAL\obj\Debug\DAL.vbprojResolveAssemblyReference.cache
+C:\Users\arosso\Desktop\SolucionTP\DAL\obj\Debug\Resources.resources
+C:\Users\arosso\Desktop\SolucionTP\DAL\obj\Debug\DAL.vbproj.GenerateResource.Cache
+C:\Users\arosso\Desktop\SolucionTP\DAL\obj\Debug\DAL.dll
+C:\Users\arosso\Desktop\SolucionTP\DAL\obj\Debug\DAL.xml
+C:\Users\arosso\Desktop\SolucionTP\DAL\obj\Debug\DAL.pdb
+D:\FACULTAD\3\3 año 2º cuatrimestre\diploma\SolucionTP\DAL\bin\Debug\DAL.dll
+D:\FACULTAD\3\3 año 2º cuatrimestre\diploma\SolucionTP\DAL\bin\Debug\DAL.pdb
+D:\FACULTAD\3\3 año 2º cuatrimestre\diploma\SolucionTP\DAL\bin\Debug\DAL.xml
+D:\FACULTAD\3\3 año 2º cuatrimestre\diploma\SolucionTP\DAL\bin\Debug\Entidades.dll
+D:\FACULTAD\3\3 año 2º cuatrimestre\diploma\SolucionTP\DAL\bin\Debug\Entidades.pdb
+D:\FACULTAD\3\3 año 2º cuatrimestre\diploma\SolucionTP\DAL\bin\Debug\Entidades.xml
+D:\FACULTAD\3\3 año 2º cuatrimestre\diploma\SolucionTP\DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\FACULTAD\3\3 año 2º cuatrimestre\diploma\SolucionTP\DAL\obj\Debug\Resources.resources
+D:\FACULTAD\3\3 año 2º cuatrimestre\diploma\SolucionTP\DAL\obj\Debug\GenerateResource.read.1.tlog
+D:\FACULTAD\3\3 año 2º cuatrimestre\diploma\SolucionTP\DAL\obj\Debug\GenerateResource.write.1.tlog
+D:\FACULTAD\3\3 año 2º cuatrimestre\diploma\SolucionTP\DAL\obj\Debug\DAL.dll
+D:\FACULTAD\3\3 año 2º cuatrimestre\diploma\SolucionTP\DAL\obj\Debug\DAL.xml
+D:\FACULTAD\3\3 año 2º cuatrimestre\diploma\SolucionTP\DAL\obj\Debug\DAL.pdb
+C:\Users\Damian\Desktop\SolucionTP\DAL\bin\Debug\DAL.dll
+C:\Users\Damian\Desktop\SolucionTP\DAL\bin\Debug\DAL.pdb
+C:\Users\Damian\Desktop\SolucionTP\DAL\bin\Debug\DAL.xml
+C:\Users\Damian\Desktop\SolucionTP\DAL\bin\Debug\Entidades.dll
+C:\Users\Damian\Desktop\SolucionTP\DAL\bin\Debug\Entidades.pdb
+C:\Users\Damian\Desktop\SolucionTP\DAL\bin\Debug\Entidades.xml
+C:\Users\Damian\Desktop\SolucionTP\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Damian\Desktop\SolucionTP\DAL\obj\Debug\Resources.resources
+C:\Users\Damian\Desktop\SolucionTP\DAL\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Damian\Desktop\SolucionTP\DAL\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Damian\Desktop\SolucionTP\DAL\obj\Debug\DAL.dll
+C:\Users\Damian\Desktop\SolucionTP\DAL\obj\Debug\DAL.xml
+C:\Users\Damian\Desktop\SolucionTP\DAL\obj\Debug\DAL.pdb
+F:\SolucionTP\DAL\bin\Debug\DAL.dll
+F:\SolucionTP\DAL\bin\Debug\DAL.pdb
+F:\SolucionTP\DAL\bin\Debug\DAL.xml
+F:\SolucionTP\DAL\bin\Debug\Entidades.dll
+F:\SolucionTP\DAL\bin\Debug\Entidades.pdb
+F:\SolucionTP\DAL\bin\Debug\Entidades.xml
+F:\SolucionTP\DAL\obj\Debug\Resources.resources
+F:\SolucionTP\DAL\obj\Debug\DAL.dll
+F:\SolucionTP\DAL\obj\Debug\DAL.xml
+F:\SolucionTP\DAL\obj\Debug\DAL.pdb
+C:\SolucionTP\DAL\bin\Debug\DAL.dll
+C:\SolucionTP\DAL\bin\Debug\DAL.pdb
+C:\SolucionTP\DAL\bin\Debug\DAL.xml
+C:\SolucionTP\DAL\bin\Debug\Entidades.dll
+C:\SolucionTP\DAL\bin\Debug\Entidades.pdb
+C:\SolucionTP\DAL\bin\Debug\Entidades.xml
+C:\SolucionTP\DAL\obj\Debug\Resources.resources
+C:\SolucionTP\DAL\obj\Debug\DAL.dll
+C:\SolucionTP\DAL\obj\Debug\DAL.xml
+C:\SolucionTP\DAL\obj\Debug\DAL.pdb
+C:\SolucionTP\DAL\bin\Debug\Entidades.Seguridad.dll
+C:\SolucionTP\DAL\bin\Debug\Entidades.Seguridad.pdb
+C:\SolucionTP\DAL\bin\Debug\Entidades.Seguridad.xml
+E:\SolucionTP\DAL\bin\Debug\Entidades.Seguridad.dll
+E:\SolucionTP\DAL\bin\Debug\Entidades.Seguridad.pdb
+E:\SolucionTP\DAL\bin\Debug\Entidades.Seguridad.xml
+F:\SolucionTP\DAL\bin\Debug\Entidades.Seguridad.dll
+F:\SolucionTP\DAL\bin\Debug\Entidades.Seguridad.pdb
+F:\SolucionTP\DAL\bin\Debug\Entidades.Seguridad.xml
+F:\SolucionTP\DAL\obj\Debug\DAL.vbprojResolveAssemblyReference.cache
+F:\SolucionTP\DAL\obj\Debug\DAL.vbproj.GenerateResource.Cache
+C:\SolucionTP\DAL\obj\Debug\DAL.vbprojResolveAssemblyReference.cache
+C:\SolucionTP\DAL\obj\Debug\DAL.vbproj.GenerateResource.Cache

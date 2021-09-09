@@ -1,0 +1,6 @@
+<asp:GridView  runat="server" BorderStyle="None"   >
+   <AlternatingRowStyle CssClass="tablaFila2" />
+   <RowStyle CssClass="tablaFila1" />
+   <HeaderStyle CssClass="tablaTitulo2" />
+   <FooterStyle CssClass="FooterStyle" />
+</asp:GridView>

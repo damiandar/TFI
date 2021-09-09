@@ -1,0 +1,56 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Gestion.Entidades
+</name>
+</assembly>
+<members>
+<member name="T:My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:OrdenCompraItem.Total">
+ <summary>
+ Cantidad * Precio con IVA
+ </summary>
+ <returns></returns>
+</member>
+<member name="P:OrdenCompraItem.PrecioConImpuestos">
+ <summary>
+ Unitario con impuestos
+ </summary>
+ <returns></returns>
+</member>
+<member name="P:Pedido.Total">
+ <summary>
+ La suma de todos los totales (total con imp * cantidad) de los items.
+ </summary>
+ <returns></returns>
+</member>
+<member name="P:PedidoItem.Total">
+ <summary>
+ Con impuestos * cantidad
+ </summary>
+ <returns></returns>
+</member>
+<member name="P:Precio.ValorFinal">
+ <summary>
+ Precio con impuestos
+ </summary>
+ <returns></returns>
+</member>
+</members>
+</doc>

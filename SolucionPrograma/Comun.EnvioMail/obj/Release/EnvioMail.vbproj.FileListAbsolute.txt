@@ -1,0 +1,10 @@
+C:\SolucionTP\EnvioMail\bin\Release\EnvioMail.dll
+C:\SolucionTP\EnvioMail\bin\Release\EnvioMail.pdb
+C:\SolucionTP\EnvioMail\bin\Release\EnvioMail.xml
+C:\SolucionTP\EnvioMail\obj\Release\ResolveAssemblyReference.cache
+C:\SolucionTP\EnvioMail\obj\Release\Resources.resources
+C:\SolucionTP\EnvioMail\obj\Release\GenerateResource.read.1.tlog
+C:\SolucionTP\EnvioMail\obj\Release\GenerateResource.write.1.tlog
+C:\SolucionTP\EnvioMail\obj\Release\EnvioMail.dll
+C:\SolucionTP\EnvioMail\obj\Release\EnvioMail.xml
+C:\SolucionTP\EnvioMail\obj\Release\EnvioMail.pdb

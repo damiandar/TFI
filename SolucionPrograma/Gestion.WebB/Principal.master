@@ -1,0 +1,163 @@
+﻿<%@ Master Language="VB" CodeFile="Principal.master.vb" Inherits="Principal" %>
+<%@ Register src="controles/MenuSuperior.ascx" tagname="MenuSuperior" tagprefix="uc2" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>::Lavadero Boutique::</title>
+     <!-- Estilos varios -->
+    <link type="text/css" href="~/assets/css/estilos.css" rel="stylesheet" />
+    <!-- Bootstrap Core CSS -->
+    <link type="text/css" href="~/assets/css/bootstrap.min.css" rel="stylesheet" />
+
+    <!-- Custom CSS -->
+    <link type="text/css" href="~/assets/css/sb-admin.css" rel="stylesheet" />
+    <link type="text/css" href="~/assets/css/bootstrap-datetimepicker.min.css" rel="stylesheet" media="screen"/>
+    <!-- Morris Charts CSS -->
+<%--    <link type="text/css" href="assets/css/plugins/morris.css" rel="stylesheet">--%>
+
+    <!-- Custom Fonts -->
+    <link type="text/css" href="~/assets/font-awesome/css/font-awesome.min.css" rel="stylesheet" />
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+      <style type="text/css">
+        .modalBackground
+        {
+            background-color: Black;
+            filter: alpha(opacity=90);
+            opacity: 0.8;
+        }
+        .modalPopup
+        {
+            background-color: #FFFFFF;
+            border-width: 3px;
+            border-style: solid;
+            border-color: black;
+            padding-top: 10px;
+            padding-left: 10px;
+            width: 400px;
+            height:300px;
+        }
+    
+    </style>
+    <asp:ContentPlaceHolder id="head" runat="server"></asp:ContentPlaceHolder>
+</head>
+<body>
+ <form id="form1" runat="server">
+    <div id="wrapper">
+
+        <!-- Navigation -->
+        <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="default.aspx">LAVADERO BOUTIQUE</a>
+            </div>
+            <!-- Top Menu Items -->
+                <uc2:MenuSuperior ID="MenuSuperior1" runat="server" />
+            <!-- Sidebar Menu Items - These collapse to the responsive navigation menu on small screens -->
+            <asp:ContentPlaceHolder id="Menu" runat="server">
+            </asp:ContentPlaceHolder>
+                
+            <!-- /.navbar-collapse -->
+        </nav>
+
+        <div id="page-wrapper">
+         <div class="container-fluid">
+     
+   
+        <asp:ScriptManager ID="ScriptManager1" runat="server" ScriptMode="Release" >
+    </asp:ScriptManager>
+                <!-- Page Heading -->
+    <div class="row">
+        <div class="col-lg-12">
+       <%-- Encabezado--%>
+            <asp:ContentPlaceHolder ID="Encabezado" runat="server">
+            
+            </asp:ContentPlaceHolder>
+        </div>
+    </div>
+                <!-- /.row -->
+
+        <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+        </asp:ContentPlaceHolder>
+   
+      </div>
+     <!-- /.container-fluid -->
+
+        </div>
+        <!-- /#page-wrapper -->
+
+    </div>
+    <!-- /#wrapper -->
+   </form>
+    <!-- jQuery -->
+    <asp:ScriptManagerProxy ID="ScriptManager2" runat="server">
+    <Scripts>
+        <asp:ScriptReference Path="~/assets/js/jquery.js" />
+    </Scripts>
+</asp:ScriptManagerProxy>
+<!-- Bootstrap Core JavaScript -->
+
+    <asp:ScriptManagerProxy  ID="ScriptManager3" runat="server">
+    <Scripts>
+        <asp:ScriptReference Path="~/assets/js/bootstrap.min.js" />
+        <asp:ScriptReference Path="~/assets/js/bootstrap-datetimepicker.js" />
+        <asp:ScriptReference Path="~/assets/js/locales/bootstrap-datetimepicker.es.js" />
+    </Scripts>
+</asp:ScriptManagerProxy>
+<%--<script type="text/javascript" src="~/assets/js/bootstrap-datetimepicker.js" charset="UTF-8"></script>
+<script type="text/javascript" src="~/assets/js/locales/bootstrap-datetimepicker.fr.js" charset="UTF-8"></script>--%>
+<script type="text/javascript">
+    $('.form_datetime').datetimepicker({
+        //language:  'fr',
+        weekStart: 1,
+        todayBtn: 1,
+        autoclose: 1,
+        todayHighlight: 1,
+        startView: 2,
+        forceParse: 0,
+        showMeridian: 1
+    });
+    $('.form_date').datetimepicker({
+        language: 'fr',
+        weekStart: 1,
+        todayBtn: 1,
+        autoclose: 1,
+        todayHighlight: 1,
+        startView: 2,
+        minView: 2,
+        forceParse: 0
+    });
+    $('.form_time').datetimepicker({
+        language: 'fr',
+        weekStart: 1,
+        todayBtn: 1,
+        autoclose: 1,
+        todayHighlight: 1,
+        startView: 1,
+        minView: 0,
+        maxView: 1,
+        forceParse: 0
+    });
+</script>
+</body>
+</html>

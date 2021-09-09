@@ -1,0 +1,110 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+BLL.Soporte
+</name>
+</assembly>
+<members>
+<member name="M:Mapper_Idioma.MuestraListadoIdiomas">
+	<summary>
+ Muestra el listado de idiomas guardados en el sistema.
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:Mapper_Idioma.Nuevo(System.String)">
+	<summary>
+ Ingresa un nuevo idioma en el sistema.
+ </summary>
+	<param name="sNuevoIdioma"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:Mapper_Idioma.Borrar(System.Int32)">
+	<summary>
+ Elimina un idioma del sistema.
+ </summary>
+	<param name="IdiomaID"></param>
+	<remarks></remarks>
+</member><member name="M:Mapper_BackUp.HacerBackUP(System.String,System.String)">
+	<summary>
+ Crea el backup del sistema y lo guarda en la ruta seleccionada.
+ </summary>
+	<param name="Ruta"></param>
+	<remarks></remarks>
+</member><member name="M:Mapper_BackUp.ListarBackUp">
+	<summary>
+ Muestra los datos de los backups y donde fueron guardados
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:Mapper_DigitoVerificador.ActualizarDigitoVerificador(System.String)">
+	<summary>
+ Actualizar Digito Verificador
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Mapper_DigitoVerificador.comprobarIntegridadBase">
+	<summary>
+ Compara el digito verificador guardado en la base con el calculado actualmente.
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:Mapper_Bitacora.GuardarBitacora(System.String,Entidades.Seguridad.Patente.eObjeto,Entidades.Seguridad.Patente.eAccion,System.String,System.Boolean)">
+	<summary>
+ Registra los eventos de la aplicación.
+ </summary>
+	<param name="Login"></param>
+	<param name="objeto"></param>
+	<param name="accion"></param>
+	<param name="Evento"></param>
+	<param name="esError"></param>
+	<remarks></remarks>
+</member><member name="P:My.Resources.Resources.ResourceManager">
+	<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member><member name="P:My.Resources.Resources.Culture">
+	<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso con establecimiento inflexible de tipos.
+</summary>
+</member><member name="T:My.Resources.Resources">
+	<summary>
+  Clase de recurso con establecimiento inflexible de tipos, para buscar cadenas traducidas, etc.
+</summary>
+</member><member name="M:Mapper_Traduccion.TraducirPalabra(System.Int32,System.String)">
+	<summary>
+ Traduce una palabra en el idioma seleccionado.
+ </summary>
+	<param name="ididioma"></param>
+	<param name="mensaje"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:Mapper_Traduccion.MostrarDiccionario(System.Int32)">
+	<summary>
+ Muestra el diccionario completo del idioma seleccionado.
+ </summary>
+	<param name="ididioma"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:Mapper_Traduccion.ListarTraducciones(System.Int32)">
+	<summary>
+ Lista todas las traducciones del idioma seleccionado.
+ </summary>
+	<param name="idIdioma"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:Mapper_Traduccion.Actualizar(Traduccion)">
+	<summary>
+ Actualiza una traduccion de una palabra.
+ </summary>
+	<param name="UnMensaje"></param>
+	<remarks></remarks>
+</member><member name="M:Mapper_Traduccion.Insertar(Traduccion)">
+	<summary>
+ Ingresa una nueva traducción para una palabra en ese idioma.
+ </summary>
+	<param name="UnMensaje"></param>
+	<remarks></remarks>
+</member>
+</members>
+</doc>

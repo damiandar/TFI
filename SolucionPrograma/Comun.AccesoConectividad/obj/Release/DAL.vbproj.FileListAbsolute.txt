@@ -1,0 +1,41 @@
+D:\FACULTAD\5\2º cuatrimestre\TFI\TP\TFI\DAL\obj\Release\ResolveAssemblyReference.cache
+D:\FACULTAD\5\2º cuatrimestre\TFI\TP\TFI\DAL\obj\Release\Resources.resources
+D:\FACULTAD\5\2º cuatrimestre\TFI\TP\TFI\DAL\obj\Release\GenerateResource.read.1.tlog
+D:\FACULTAD\5\2º cuatrimestre\TFI\TP\TFI\DAL\obj\Release\GenerateResource.write.1.tlog
+D:\FACULTAD\5\2º cuatrimestre\TFI\TP\TFI\DAL\bin\Release\DAL.dll
+D:\FACULTAD\5\2º cuatrimestre\TFI\TP\TFI\DAL\bin\Release\DAL.pdb
+D:\FACULTAD\5\2º cuatrimestre\TFI\TP\TFI\DAL\bin\Release\DAL.xml
+D:\FACULTAD\5\2º cuatrimestre\TFI\TP\TFI\DAL\bin\Release\Entidades.dll
+D:\FACULTAD\5\2º cuatrimestre\TFI\TP\TFI\DAL\bin\Release\Entidades.pdb
+D:\FACULTAD\5\2º cuatrimestre\TFI\TP\TFI\DAL\bin\Release\Entidades.xml
+D:\FACULTAD\5\2º cuatrimestre\TFI\TP\TFI\DAL\obj\Release\DAL.dll
+D:\FACULTAD\5\2º cuatrimestre\TFI\TP\TFI\DAL\obj\Release\DAL.xml
+D:\FACULTAD\5\2º cuatrimestre\TFI\TP\TFI\DAL\obj\Release\DAL.pdb
+E:\SolucionTP\DAL\bin\Release\DAL.dll
+E:\SolucionTP\DAL\bin\Release\DAL.pdb
+E:\SolucionTP\DAL\bin\Release\DAL.xml
+E:\SolucionTP\DAL\bin\Release\Entidades.dll
+E:\SolucionTP\DAL\bin\Release\Entidades.pdb
+E:\SolucionTP\DAL\bin\Release\Entidades.xml
+E:\SolucionTP\DAL\obj\Release\DAL.vbprojResolveAssemblyReference.cache
+E:\SolucionTP\DAL\obj\Release\Resources.resources
+E:\SolucionTP\DAL\obj\Release\DAL.vbproj.GenerateResource.Cache
+E:\SolucionTP\DAL\obj\Release\DAL.dll
+E:\SolucionTP\DAL\obj\Release\DAL.xml
+E:\SolucionTP\DAL\obj\Release\DAL.pdb
+C:\SolucionTP\DAL\bin\Release\DAL.dll
+C:\SolucionTP\DAL\bin\Release\DAL.pdb
+C:\SolucionTP\DAL\bin\Release\DAL.xml
+C:\SolucionTP\DAL\bin\Release\Entidades.dll
+C:\SolucionTP\DAL\bin\Release\Entidades.pdb
+C:\SolucionTP\DAL\bin\Release\Entidades.xml
+C:\SolucionTP\DAL\obj\Release\ResolveAssemblyReference.cache
+C:\SolucionTP\DAL\obj\Release\Resources.resources
+C:\SolucionTP\DAL\obj\Release\GenerateResource.read.1.tlog
+C:\SolucionTP\DAL\obj\Release\GenerateResource.write.1.tlog
+C:\SolucionTP\DAL\obj\Release\DAL.dll
+C:\SolucionTP\DAL\obj\Release\DAL.xml
+C:\SolucionTP\DAL\obj\Release\DAL.pdb
+C:\SolucionTP\DAL\bin\Release\Entidades.Seguridad.dll
+C:\SolucionTP\DAL\bin\Release\Entidades.Seguridad.pdb
+C:\SolucionTP\DAL\bin\Release\Entidades.Seguridad.xml

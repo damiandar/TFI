@@ -1,0 +1,10 @@
+        <asp:RequiredFieldValidator ID="RequiredFieldValidator1" runat="server" ControlToValidate="pwd" Display="Dynamic" ErrorMessage="Debe ingresar la contraseña actual" 
+            ValidationGroup="VGpaso1"></asp:RequiredFieldValidator>  
+     
+ Dim CSM As ClientScriptManager = Page.ClientScript
+        Dim script As String = "<script type='text/javascript'>$('#mymodal').modal('hide'); </script>"
+        CSM.RegisterClientScriptBlock(Me.GetType, "Test", script)
+
+
+
+update Seg_Usuario set contrasenia='415D4B46214D' where login='info@cardales.com.ar'

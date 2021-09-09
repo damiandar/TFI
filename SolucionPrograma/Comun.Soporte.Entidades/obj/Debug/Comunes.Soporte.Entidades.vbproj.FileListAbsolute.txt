@@ -1,0 +1,228 @@
+C:\SolucionTP\Gestion.Solucion\Comun.Soporte.Entidades\bin\Debug\Entidades.Soporte.dll
+C:\SolucionTP\Gestion.Solucion\Comun.Soporte.Entidades\bin\Debug\Entidades.Soporte.pdb
+C:\SolucionTP\Gestion.Solucion\Comun.Soporte.Entidades\bin\Debug\Entidades.Soporte.xml
+C:\SolucionTP\Gestion.Solucion\Comun.Soporte.Entidades\bin\Debug\Entidades.Seguridad.dll
+C:\SolucionTP\Gestion.Solucion\Comun.Soporte.Entidades\bin\Debug\Entidades.Seguridad.pdb
+C:\SolucionTP\Gestion.Solucion\Comun.Soporte.Entidades\bin\Debug\Entidades.Seguridad.xml
+C:\SolucionTP\Gestion.Solucion\Comun.Soporte.Entidades\obj\Debug\Comunes.Soporte.Entidades.vbprojResolveAssemblyReference.cache
+C:\SolucionTP\Gestion.Solucion\Comun.Soporte.Entidades\obj\Debug\Resources.resources
+C:\SolucionTP\Gestion.Solucion\Comun.Soporte.Entidades\obj\Debug\Comunes.Soporte.Entidades.vbproj.GenerateResource.Cache
+C:\SolucionTP\Gestion.Solucion\Comun.Soporte.Entidades\obj\Debug\Entidades.Soporte.dll
+C:\SolucionTP\Gestion.Solucion\Comun.Soporte.Entidades\obj\Debug\Entidades.Soporte.xml
+C:\SolucionTP\Gestion.Solucion\Comun.Soporte.Entidades\obj\Debug\Entidades.Soporte.pdb
+C:\Users\Gisela\Desktop\SolucionTP\Gestion.Solucion\Comun.Soporte.Entidades\bin\Debug\Entidades.Soporte.dll
+C:\Users\Gisela\Desktop\SolucionTP\Gestion.Solucion\Comun.Soporte.Entidades\bin\Debug\Entidades.Soporte.pdb
+C:\Users\Gisela\Desktop\SolucionTP\Gestion.Solucion\Comun.Soporte.Entidades\bin\Debug\Entidades.Soporte.xml
+C:\Users\Gisela\Desktop\SolucionTP\Gestion.Solucion\Comun.Soporte.Entidades\bin\Debug\Entidades.Seguridad.dll
+C:\Users\Gisela\Desktop\SolucionTP\Gestion.Solucion\Comun.Soporte.Entidades\bin\Debug\Entidades.Seguridad.pdb
+C:\Users\Gisela\Desktop\SolucionTP\Gestion.Solucion\Comun.Soporte.Entidades\bin\Debug\Entidades.Seguridad.xml
+C:\Users\Gisela\Desktop\SolucionTP\Gestion.Solucion\Comun.Soporte.Entidades\obj\Debug\Comunes.Soporte.Entidades.vbprojResolveAssemblyReference.cache
+C:\Users\Gisela\Desktop\SolucionTP\Gestion.Solucion\Comun.Soporte.Entidades\obj\Debug\Resources.resources
+C:\Users\Gisela\Desktop\SolucionTP\Gestion.Solucion\Comun.Soporte.Entidades\obj\Debug\Comunes.Soporte.Entidades.vbproj.GenerateResource.Cache
+C:\Users\Gisela\Desktop\SolucionTP\Gestion.Solucion\Comun.Soporte.Entidades\obj\Debug\Entidades.Soporte.dll
+C:\Users\Gisela\Desktop\SolucionTP\Gestion.Solucion\Comun.Soporte.Entidades\obj\Debug\Entidades.Soporte.xml
+C:\Users\Gisela\Desktop\SolucionTP\Gestion.Solucion\Comun.Soporte.Entidades\obj\Debug\Entidades.Soporte.pdb
+C:\Users\Gisela\Desktop\SolucionTPv2\Gestion.Solucion\Comun.Soporte.Entidades\bin\Debug\Entidades.Soporte.dll
+C:\Users\Gisela\Desktop\SolucionTPv2\Gestion.Solucion\Comun.Soporte.Entidades\bin\Debug\Entidades.Soporte.pdb
+C:\Users\Gisela\Desktop\SolucionTPv2\Gestion.Solucion\Comun.Soporte.Entidades\bin\Debug\Entidades.Soporte.xml
+C:\Users\Gisela\Desktop\SolucionTPv2\Gestion.Solucion\Comun.Soporte.Entidades\bin\Debug\Entidades.Seguridad.dll
+C:\Users\Gisela\Desktop\SolucionTPv2\Gestion.Solucion\Comun.Soporte.Entidades\bin\Debug\Entidades.Seguridad.pdb
+C:\Users\Gisela\Desktop\SolucionTPv2\Gestion.Solucion\Comun.Soporte.Entidades\bin\Debug\Entidades.Seguridad.xml
+C:\Users\Gisela\Desktop\SolucionTPv2\Gestion.Solucion\Comun.Soporte.Entidades\obj\Debug\Comunes.Soporte.Entidades.vbprojResolveAssemblyReference.cache
+C:\Users\Gisela\Desktop\SolucionTPv2\Gestion.Solucion\Comun.Soporte.Entidades\obj\Debug\Resources.resources
+C:\Users\Gisela\Desktop\SolucionTPv2\Gestion.Solucion\Comun.Soporte.Entidades\obj\Debug\Comunes.Soporte.Entidades.vbproj.GenerateResource.Cache
+C:\Users\Gisela\Desktop\SolucionTPv2\Gestion.Solucion\Comun.Soporte.Entidades\obj\Debug\Entidades.Soporte.dll
+C:\Users\Gisela\Desktop\SolucionTPv2\Gestion.Solucion\Comun.Soporte.Entidades\obj\Debug\Entidades.Soporte.xml
+C:\Users\Gisela\Desktop\SolucionTPv2\Gestion.Solucion\Comun.Soporte.Entidades\obj\Debug\Entidades.Soporte.pdb
+C:\Users\Gisela\Desktop\SolucionTPv3\Gestion.Solucion\Comun.Soporte.Entidades\obj\Debug\Comunes.Soporte.Entidades.vbprojResolveAssemblyReference.cache
+C:\Users\Gisela\Desktop\SolucionTPv3\Gestion.Solucion\Comun.Soporte.Entidades\obj\Debug\Resources.resources
+C:\Users\Gisela\Desktop\SolucionTPv3\Gestion.Solucion\Comun.Soporte.Entidades\obj\Debug\Comunes.Soporte.Entidades.vbproj.GenerateResource.Cache
+C:\Users\Gisela\Desktop\SolucionTPv3\Gestion.Solucion\Comun.Soporte.Entidades\obj\Debug\Entidades.Soporte.dll
+C:\Users\Gisela\Desktop\SolucionTPv3\Gestion.Solucion\Comun.Soporte.Entidades\obj\Debug\Entidades.Soporte.xml
+C:\Users\Gisela\Desktop\SolucionTPv3\Gestion.Solucion\Comun.Soporte.Entidades\obj\Debug\Entidades.Soporte.pdb
+C:\Users\Gisela\Desktop\SolucionTPv3\Gestion.Solucion\Comun.Soporte.Entidades\bin\Debug\Entidades.Soporte.dll
+C:\Users\Gisela\Desktop\SolucionTPv3\Gestion.Solucion\Comun.Soporte.Entidades\bin\Debug\Entidades.Soporte.pdb
+C:\Users\Gisela\Desktop\SolucionTPv3\Gestion.Solucion\Comun.Soporte.Entidades\bin\Debug\Entidades.Soporte.xml
+C:\Users\Gisela\Desktop\SolucionTPv3\Gestion.Solucion\Comun.Soporte.Entidades\bin\Debug\Entidades.Seguridad.dll
+C:\Users\Gisela\Desktop\SolucionTPv3\Gestion.Solucion\Comun.Soporte.Entidades\bin\Debug\Entidades.Seguridad.pdb
+C:\Users\Gisela\Desktop\SolucionTPv3\Gestion.Solucion\Comun.Soporte.Entidades\bin\Debug\Entidades.Seguridad.xml
+C:\Users\Gisela\Desktop\SolucionTPv7\Gestion.Solucion\Comun.Soporte.Entidades\bin\Debug\Entidades.Soporte.dll
+C:\Users\Gisela\Desktop\SolucionTPv7\Gestion.Solucion\Comun.Soporte.Entidades\bin\Debug\Entidades.Soporte.pdb
+C:\Users\Gisela\Desktop\SolucionTPv7\Gestion.Solucion\Comun.Soporte.Entidades\bin\Debug\Entidades.Soporte.xml
+C:\Users\Gisela\Desktop\SolucionTPv7\Gestion.Solucion\Comun.Soporte.Entidades\bin\Debug\Entidades.Seguridad.dll
+C:\Users\Gisela\Desktop\SolucionTPv7\Gestion.Solucion\Comun.Soporte.Entidades\bin\Debug\Entidades.Seguridad.pdb
+C:\Users\Gisela\Desktop\SolucionTPv7\Gestion.Solucion\Comun.Soporte.Entidades\bin\Debug\Entidades.Seguridad.xml
+C:\Users\Gisela\Desktop\SolucionTPv7\Gestion.Solucion\Comun.Soporte.Entidades\obj\Debug\Comunes.Soporte.Entidades.vbprojResolveAssemblyReference.cache
+C:\Users\Gisela\Desktop\SolucionTPv7\Gestion.Solucion\Comun.Soporte.Entidades\obj\Debug\Resources.resources
+C:\Users\Gisela\Desktop\SolucionTPv7\Gestion.Solucion\Comun.Soporte.Entidades\obj\Debug\Comunes.Soporte.Entidades.vbproj.GenerateResource.Cache
+C:\Users\Gisela\Desktop\SolucionTPv7\Gestion.Solucion\Comun.Soporte.Entidades\obj\Debug\Entidades.Soporte.dll
+C:\Users\Gisela\Desktop\SolucionTPv7\Gestion.Solucion\Comun.Soporte.Entidades\obj\Debug\Entidades.Soporte.xml
+C:\Users\Gisela\Desktop\SolucionTPv7\Gestion.Solucion\Comun.Soporte.Entidades\obj\Debug\Entidades.Soporte.pdb
+C:\Users\Gisela\Desktop\SolucionTPv9\Gestion.Solucion\Comun.Soporte.Entidades\bin\Debug\Entidades.Soporte.dll
+C:\Users\Gisela\Desktop\SolucionTPv9\Gestion.Solucion\Comun.Soporte.Entidades\bin\Debug\Entidades.Soporte.pdb
+C:\Users\Gisela\Desktop\SolucionTPv9\Gestion.Solucion\Comun.Soporte.Entidades\bin\Debug\Entidades.Soporte.xml
+C:\Users\Gisela\Desktop\SolucionTPv9\Gestion.Solucion\Comun.Soporte.Entidades\bin\Debug\Entidades.Seguridad.dll
+C:\Users\Gisela\Desktop\SolucionTPv9\Gestion.Solucion\Comun.Soporte.Entidades\bin\Debug\Entidades.Seguridad.pdb
+C:\Users\Gisela\Desktop\SolucionTPv9\Gestion.Solucion\Comun.Soporte.Entidades\bin\Debug\Entidades.Seguridad.xml
+C:\Users\Gisela\Desktop\SolucionTPv9\Gestion.Solucion\Comun.Soporte.Entidades\obj\Debug\Comunes.Soporte.Entidades.vbprojResolveAssemblyReference.cache
+C:\Users\Gisela\Desktop\SolucionTPv9\Gestion.Solucion\Comun.Soporte.Entidades\obj\Debug\Resources.resources
+C:\Users\Gisela\Desktop\SolucionTPv9\Gestion.Solucion\Comun.Soporte.Entidades\obj\Debug\Comunes.Soporte.Entidades.vbproj.GenerateResource.Cache
+C:\Users\Gisela\Desktop\SolucionTPv9\Gestion.Solucion\Comun.Soporte.Entidades\obj\Debug\Entidades.Soporte.dll
+C:\Users\Gisela\Desktop\SolucionTPv9\Gestion.Solucion\Comun.Soporte.Entidades\obj\Debug\Entidades.Soporte.xml
+C:\Users\Gisela\Desktop\SolucionTPv9\Gestion.Solucion\Comun.Soporte.Entidades\obj\Debug\Entidades.Soporte.pdb
+C:\Users\Gisela\Desktop\SolucionTPv11\SolucionTPv9\Gestion.Solucion\Comun.Soporte.Entidades\bin\Debug\Entidades.Soporte.dll
+C:\Users\Gisela\Desktop\SolucionTPv11\SolucionTPv9\Gestion.Solucion\Comun.Soporte.Entidades\bin\Debug\Entidades.Soporte.pdb
+C:\Users\Gisela\Desktop\SolucionTPv11\SolucionTPv9\Gestion.Solucion\Comun.Soporte.Entidades\bin\Debug\Entidades.Soporte.xml
+C:\Users\Gisela\Desktop\SolucionTPv11\SolucionTPv9\Gestion.Solucion\Comun.Soporte.Entidades\bin\Debug\Entidades.Seguridad.dll
+C:\Users\Gisela\Desktop\SolucionTPv11\SolucionTPv9\Gestion.Solucion\Comun.Soporte.Entidades\bin\Debug\Entidades.Seguridad.pdb
+C:\Users\Gisela\Desktop\SolucionTPv11\SolucionTPv9\Gestion.Solucion\Comun.Soporte.Entidades\bin\Debug\Entidades.Seguridad.xml
+C:\Users\Gisela\Desktop\SolucionTPv11\SolucionTPv9\Gestion.Solucion\Comun.Soporte.Entidades\obj\Debug\Comunes.Soporte.Entidades.vbprojResolveAssemblyReference.cache
+C:\Users\Gisela\Desktop\SolucionTPv11\SolucionTPv9\Gestion.Solucion\Comun.Soporte.Entidades\obj\Debug\Resources.resources
+C:\Users\Gisela\Desktop\SolucionTPv11\SolucionTPv9\Gestion.Solucion\Comun.Soporte.Entidades\obj\Debug\Comunes.Soporte.Entidades.vbproj.GenerateResource.Cache
+C:\Users\Gisela\Desktop\SolucionTPv11\SolucionTPv9\Gestion.Solucion\Comun.Soporte.Entidades\obj\Debug\Entidades.Soporte.dll
+C:\Users\Gisela\Desktop\SolucionTPv11\SolucionTPv9\Gestion.Solucion\Comun.Soporte.Entidades\obj\Debug\Entidades.Soporte.xml
+C:\Users\Gisela\Desktop\SolucionTPv11\SolucionTPv9\Gestion.Solucion\Comun.Soporte.Entidades\obj\Debug\Entidades.Soporte.pdb
+C:\Users\Gisela\Desktop\SolucionTPv13\SolucionTPv9\Gestion.Solucion\Comun.Soporte.Entidades\bin\Debug\Entidades.Soporte.dll
+C:\Users\Gisela\Desktop\SolucionTPv13\SolucionTPv9\Gestion.Solucion\Comun.Soporte.Entidades\bin\Debug\Entidades.Soporte.pdb
+C:\Users\Gisela\Desktop\SolucionTPv13\SolucionTPv9\Gestion.Solucion\Comun.Soporte.Entidades\bin\Debug\Entidades.Soporte.xml
+C:\Users\Gisela\Desktop\SolucionTPv13\SolucionTPv9\Gestion.Solucion\Comun.Soporte.Entidades\bin\Debug\Entidades.Seguridad.dll
+C:\Users\Gisela\Desktop\SolucionTPv13\SolucionTPv9\Gestion.Solucion\Comun.Soporte.Entidades\bin\Debug\Entidades.Seguridad.pdb
+C:\Users\Gisela\Desktop\SolucionTPv13\SolucionTPv9\Gestion.Solucion\Comun.Soporte.Entidades\bin\Debug\Entidades.Seguridad.xml
+C:\Users\Gisela\Desktop\SolucionTPv13\SolucionTPv9\Gestion.Solucion\Comun.Soporte.Entidades\obj\Debug\Comunes.Soporte.Entidades.vbprojResolveAssemblyReference.cache
+C:\Users\Gisela\Desktop\SolucionTPv13\SolucionTPv9\Gestion.Solucion\Comun.Soporte.Entidades\obj\Debug\Resources.resources
+C:\Users\Gisela\Desktop\SolucionTPv13\SolucionTPv9\Gestion.Solucion\Comun.Soporte.Entidades\obj\Debug\Comunes.Soporte.Entidades.vbproj.GenerateResource.Cache
+C:\Users\Gisela\Desktop\SolucionTPv13\SolucionTPv9\Gestion.Solucion\Comun.Soporte.Entidades\obj\Debug\Entidades.Soporte.dll
+C:\Users\Gisela\Desktop\SolucionTPv13\SolucionTPv9\Gestion.Solucion\Comun.Soporte.Entidades\obj\Debug\Entidades.Soporte.xml
+C:\Users\Gisela\Desktop\SolucionTPv13\SolucionTPv9\Gestion.Solucion\Comun.Soporte.Entidades\obj\Debug\Entidades.Soporte.pdb
+F:\NUEVO\Solucion TFI\SolucionTPv9\Gestion.Solucion\Comun.Soporte.Entidades\bin\Debug\Entidades.Soporte.dll
+F:\NUEVO\Solucion TFI\SolucionTPv9\Gestion.Solucion\Comun.Soporte.Entidades\bin\Debug\Entidades.Soporte.pdb
+F:\NUEVO\Solucion TFI\SolucionTPv9\Gestion.Solucion\Comun.Soporte.Entidades\bin\Debug\Entidades.Soporte.xml
+F:\NUEVO\Solucion TFI\SolucionTPv9\Gestion.Solucion\Comun.Soporte.Entidades\bin\Debug\Entidades.Seguridad.dll
+F:\NUEVO\Solucion TFI\SolucionTPv9\Gestion.Solucion\Comun.Soporte.Entidades\bin\Debug\Entidades.Seguridad.pdb
+F:\NUEVO\Solucion TFI\SolucionTPv9\Gestion.Solucion\Comun.Soporte.Entidades\bin\Debug\Entidades.Seguridad.xml
+F:\NUEVO\Solucion TFI\SolucionTPv9\Gestion.Solucion\Comun.Soporte.Entidades\obj\Debug\Comunes.Soporte.Entidades.vbprojResolveAssemblyReference.cache
+F:\NUEVO\Solucion TFI\SolucionTPv9\Gestion.Solucion\Comun.Soporte.Entidades\obj\Debug\Resources.resources
+F:\NUEVO\Solucion TFI\SolucionTPv9\Gestion.Solucion\Comun.Soporte.Entidades\obj\Debug\Comunes.Soporte.Entidades.vbproj.GenerateResource.Cache
+F:\NUEVO\Solucion TFI\SolucionTPv9\Gestion.Solucion\Comun.Soporte.Entidades\obj\Debug\Entidades.Soporte.dll
+F:\NUEVO\Solucion TFI\SolucionTPv9\Gestion.Solucion\Comun.Soporte.Entidades\obj\Debug\Entidades.Soporte.xml
+F:\NUEVO\Solucion TFI\SolucionTPv9\Gestion.Solucion\Comun.Soporte.Entidades\obj\Debug\Entidades.Soporte.pdb
+C:\Users\Gisela\Desktop\NUEVO\Solucion TFI\SolucionTPv9\Gestion.Solucion\Comun.Soporte.Entidades\bin\Debug\Entidades.Soporte.dll
+C:\Users\Gisela\Desktop\NUEVO\Solucion TFI\SolucionTPv9\Gestion.Solucion\Comun.Soporte.Entidades\bin\Debug\Entidades.Soporte.pdb
+C:\Users\Gisela\Desktop\NUEVO\Solucion TFI\SolucionTPv9\Gestion.Solucion\Comun.Soporte.Entidades\bin\Debug\Entidades.Soporte.xml
+C:\Users\Gisela\Desktop\NUEVO\Solucion TFI\SolucionTPv9\Gestion.Solucion\Comun.Soporte.Entidades\bin\Debug\Entidades.Seguridad.dll
+C:\Users\Gisela\Desktop\NUEVO\Solucion TFI\SolucionTPv9\Gestion.Solucion\Comun.Soporte.Entidades\bin\Debug\Entidades.Seguridad.pdb
+C:\Users\Gisela\Desktop\NUEVO\Solucion TFI\SolucionTPv9\Gestion.Solucion\Comun.Soporte.Entidades\bin\Debug\Entidades.Seguridad.xml
+C:\Users\Gisela\Desktop\NUEVO\Solucion TFI\SolucionTPv9\Gestion.Solucion\Comun.Soporte.Entidades\obj\Debug\Comunes.Soporte.Entidades.vbprojResolveAssemblyReference.cache
+C:\Users\Gisela\Desktop\NUEVO\Solucion TFI\SolucionTPv9\Gestion.Solucion\Comun.Soporte.Entidades\obj\Debug\Resources.resources
+C:\Users\Gisela\Desktop\NUEVO\Solucion TFI\SolucionTPv9\Gestion.Solucion\Comun.Soporte.Entidades\obj\Debug\Comunes.Soporte.Entidades.vbproj.GenerateResource.Cache
+C:\Users\Gisela\Desktop\NUEVO\Solucion TFI\SolucionTPv9\Gestion.Solucion\Comun.Soporte.Entidades\obj\Debug\Entidades.Soporte.dll
+C:\Users\Gisela\Desktop\NUEVO\Solucion TFI\SolucionTPv9\Gestion.Solucion\Comun.Soporte.Entidades\obj\Debug\Entidades.Soporte.xml
+C:\Users\Gisela\Desktop\NUEVO\Solucion TFI\SolucionTPv9\Gestion.Solucion\Comun.Soporte.Entidades\obj\Debug\Entidades.Soporte.pdb
+C:\Users\Administrador\Desktop\Gestion.Solucion\Comun.Soporte.Entidades\bin\Debug\Entidades.Soporte.dll
+C:\Users\Administrador\Desktop\Gestion.Solucion\Comun.Soporte.Entidades\bin\Debug\Entidades.Soporte.pdb
+C:\Users\Administrador\Desktop\Gestion.Solucion\Comun.Soporte.Entidades\bin\Debug\Entidades.Soporte.xml
+C:\Users\Administrador\Desktop\Gestion.Solucion\Comun.Soporte.Entidades\bin\Debug\Entidades.Seguridad.dll
+C:\Users\Administrador\Desktop\Gestion.Solucion\Comun.Soporte.Entidades\bin\Debug\Entidades.Seguridad.pdb
+C:\Users\Administrador\Desktop\Gestion.Solucion\Comun.Soporte.Entidades\bin\Debug\Entidades.Seguridad.xml
+C:\Users\Administrador\Desktop\Gestion.Solucion\Comun.Soporte.Entidades\obj\Debug\Comunes.Soporte.Entidades.vbprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Gestion.Solucion\Comun.Soporte.Entidades\obj\Debug\Resources.resources
+C:\Users\Administrador\Desktop\Gestion.Solucion\Comun.Soporte.Entidades\obj\Debug\Comunes.Soporte.Entidades.vbproj.GenerateResource.Cache
+C:\Users\Administrador\Desktop\Gestion.Solucion\Comun.Soporte.Entidades\obj\Debug\Entidades.Soporte.dll
+C:\Users\Administrador\Desktop\Gestion.Solucion\Comun.Soporte.Entidades\obj\Debug\Entidades.Soporte.xml
+C:\Users\Administrador\Desktop\Gestion.Solucion\Comun.Soporte.Entidades\obj\Debug\Entidades.Soporte.pdb
+C:\DD\TFI\Gestion.Solucion\Version22\Comun.Soporte.Entidades\bin\Debug\Entidades.Soporte.dll
+C:\DD\TFI\Gestion.Solucion\Version22\Comun.Soporte.Entidades\bin\Debug\Entidades.Soporte.pdb
+C:\DD\TFI\Gestion.Solucion\Version22\Comun.Soporte.Entidades\bin\Debug\Entidades.Soporte.xml
+C:\DD\TFI\Gestion.Solucion\Version22\Comun.Soporte.Entidades\bin\Debug\Entidades.Seguridad.dll
+C:\DD\TFI\Gestion.Solucion\Version22\Comun.Soporte.Entidades\bin\Debug\Entidades.Seguridad.pdb
+C:\DD\TFI\Gestion.Solucion\Version22\Comun.Soporte.Entidades\bin\Debug\Entidades.Seguridad.xml
+C:\DD\TFI\Gestion.Solucion\Version22\Comun.Soporte.Entidades\obj\Debug\Comunes.Soporte.Entidades.vbprojResolveAssemblyReference.cache
+C:\DD\TFI\Gestion.Solucion\Version22\Comun.Soporte.Entidades\obj\Debug\Resources.resources
+C:\DD\TFI\Gestion.Solucion\Version22\Comun.Soporte.Entidades\obj\Debug\Comunes.Soporte.Entidades.vbproj.GenerateResource.Cache
+C:\DD\TFI\Gestion.Solucion\Version22\Comun.Soporte.Entidades\obj\Debug\Entidades.Soporte.dll
+C:\DD\TFI\Gestion.Solucion\Version22\Comun.Soporte.Entidades\obj\Debug\Entidades.Soporte.xml
+C:\DD\TFI\Gestion.Solucion\Version22\Comun.Soporte.Entidades\obj\Debug\Entidades.Soporte.pdb
+C:\Users\drosso\Desktop\Version28\Comun.Soporte.Entidades\bin\Debug\Entidades.Soporte.dll
+C:\Users\drosso\Desktop\Version28\Comun.Soporte.Entidades\bin\Debug\Entidades.Soporte.pdb
+C:\Users\drosso\Desktop\Version28\Comun.Soporte.Entidades\bin\Debug\Entidades.Soporte.xml
+C:\Users\drosso\Desktop\Version28\Comun.Soporte.Entidades\bin\Debug\Entidades.Seguridad.dll
+C:\Users\drosso\Desktop\Version28\Comun.Soporte.Entidades\bin\Debug\Entidades.Seguridad.pdb
+C:\Users\drosso\Desktop\Version28\Comun.Soporte.Entidades\bin\Debug\Entidades.Seguridad.xml
+C:\Users\drosso\Desktop\Version28\Comun.Soporte.Entidades\obj\Debug\Comunes.Soporte.Entidades.vbprojResolveAssemblyReference.cache
+C:\Users\drosso\Desktop\Version28\Comun.Soporte.Entidades\obj\Debug\Resources.resources
+C:\Users\drosso\Desktop\Version28\Comun.Soporte.Entidades\obj\Debug\Comunes.Soporte.Entidades.vbproj.GenerateResource.Cache
+C:\Users\drosso\Desktop\Version28\Comun.Soporte.Entidades\obj\Debug\Entidades.Soporte.dll
+C:\Users\drosso\Desktop\Version28\Comun.Soporte.Entidades\obj\Debug\Entidades.Soporte.xml
+C:\Users\drosso\Desktop\Version28\Comun.Soporte.Entidades\obj\Debug\Entidades.Soporte.pdb
+C:\DD\TFI\Gestion.Solucion\Version71\Comun.Soporte.Entidades\bin\Debug\Entidades.Soporte.dll
+C:\DD\TFI\Gestion.Solucion\Version71\Comun.Soporte.Entidades\bin\Debug\Entidades.Soporte.pdb
+C:\DD\TFI\Gestion.Solucion\Version71\Comun.Soporte.Entidades\bin\Debug\Entidades.Soporte.xml
+C:\DD\TFI\Gestion.Solucion\Version71\Comun.Soporte.Entidades\bin\Debug\Entidades.Seguridad.dll
+C:\DD\TFI\Gestion.Solucion\Version71\Comun.Soporte.Entidades\bin\Debug\Entidades.Seguridad.pdb
+C:\DD\TFI\Gestion.Solucion\Version71\Comun.Soporte.Entidades\bin\Debug\Entidades.Seguridad.xml
+C:\DD\TFI\Gestion.Solucion\Version71\Comun.Soporte.Entidades\obj\Debug\Comunes.Soporte.Entidades.vbprojResolveAssemblyReference.cache
+C:\DD\TFI\Gestion.Solucion\Version71\Comun.Soporte.Entidades\obj\Debug\Resources.resources
+C:\DD\TFI\Gestion.Solucion\Version71\Comun.Soporte.Entidades\obj\Debug\Comunes.Soporte.Entidades.vbproj.GenerateResource.Cache
+C:\DD\TFI\Gestion.Solucion\Version71\Comun.Soporte.Entidades\obj\Debug\Entidades.Soporte.dll
+C:\DD\TFI\Gestion.Solucion\Version71\Comun.Soporte.Entidades\obj\Debug\Entidades.Soporte.xml
+C:\DD\TFI\Gestion.Solucion\Version71\Comun.Soporte.Entidades\obj\Debug\Entidades.Soporte.pdb
+C:\Users\drosso\Desktop\Version72\Version72\Comun.Soporte.Entidades\bin\Debug\Entidades.Soporte.dll
+C:\Users\drosso\Desktop\Version72\Version72\Comun.Soporte.Entidades\bin\Debug\Entidades.Soporte.pdb
+C:\Users\drosso\Desktop\Version72\Version72\Comun.Soporte.Entidades\bin\Debug\Entidades.Soporte.xml
+C:\Users\drosso\Desktop\Version72\Version72\Comun.Soporte.Entidades\bin\Debug\Entidades.Seguridad.dll
+C:\Users\drosso\Desktop\Version72\Version72\Comun.Soporte.Entidades\bin\Debug\Entidades.Seguridad.pdb
+C:\Users\drosso\Desktop\Version72\Version72\Comun.Soporte.Entidades\bin\Debug\Entidades.Seguridad.xml
+C:\Users\drosso\Desktop\Version72\Version72\Comun.Soporte.Entidades\obj\Debug\Comunes.Soporte.Entidades.vbprojResolveAssemblyReference.cache
+C:\Users\drosso\Desktop\Version72\Version72\Comun.Soporte.Entidades\obj\Debug\Resources.resources
+C:\Users\drosso\Desktop\Version72\Version72\Comun.Soporte.Entidades\obj\Debug\Comunes.Soporte.Entidades.vbproj.GenerateResource.Cache
+C:\Users\drosso\Desktop\Version72\Version72\Comun.Soporte.Entidades\obj\Debug\Entidades.Soporte.dll
+C:\Users\drosso\Desktop\Version72\Version72\Comun.Soporte.Entidades\obj\Debug\Entidades.Soporte.xml
+C:\Users\drosso\Desktop\Version72\Version72\Comun.Soporte.Entidades\obj\Debug\Entidades.Soporte.pdb
+C:\DD\TFI\Gestion.Solucion\Version73\Version73\Comun.Soporte.Entidades\bin\Debug\Entidades.Soporte.dll
+C:\DD\TFI\Gestion.Solucion\Version73\Version73\Comun.Soporte.Entidades\bin\Debug\Entidades.Soporte.pdb
+C:\DD\TFI\Gestion.Solucion\Version73\Version73\Comun.Soporte.Entidades\bin\Debug\Entidades.Soporte.xml
+C:\DD\TFI\Gestion.Solucion\Version73\Version73\Comun.Soporte.Entidades\bin\Debug\Entidades.Seguridad.dll
+C:\DD\TFI\Gestion.Solucion\Version73\Version73\Comun.Soporte.Entidades\bin\Debug\Entidades.Seguridad.pdb
+C:\DD\TFI\Gestion.Solucion\Version73\Version73\Comun.Soporte.Entidades\bin\Debug\Entidades.Seguridad.xml
+C:\DD\TFI\Gestion.Solucion\Version73\Version73\Comun.Soporte.Entidades\obj\Debug\Comunes.Soporte.Entidades.vbprojResolveAssemblyReference.cache
+C:\DD\TFI\Gestion.Solucion\Version73\Version73\Comun.Soporte.Entidades\obj\Debug\Resources.resources
+C:\DD\TFI\Gestion.Solucion\Version73\Version73\Comun.Soporte.Entidades\obj\Debug\Comunes.Soporte.Entidades.vbproj.GenerateResource.Cache
+C:\DD\TFI\Gestion.Solucion\Version73\Version73\Comun.Soporte.Entidades\obj\Debug\Entidades.Soporte.dll
+C:\DD\TFI\Gestion.Solucion\Version73\Version73\Comun.Soporte.Entidades\obj\Debug\Entidades.Soporte.xml
+C:\DD\TFI\Gestion.Solucion\Version73\Version73\Comun.Soporte.Entidades\obj\Debug\Entidades.Soporte.pdb
+C:\Users\drosso\Desktop\Version74\Comun.Soporte.Entidades\bin\Debug\Entidades.Soporte.dll
+C:\Users\drosso\Desktop\Version74\Comun.Soporte.Entidades\bin\Debug\Entidades.Soporte.pdb
+C:\Users\drosso\Desktop\Version74\Comun.Soporte.Entidades\bin\Debug\Entidades.Soporte.xml
+C:\Users\drosso\Desktop\Version74\Comun.Soporte.Entidades\bin\Debug\Entidades.Seguridad.dll
+C:\Users\drosso\Desktop\Version74\Comun.Soporte.Entidades\bin\Debug\Entidades.Seguridad.pdb
+C:\Users\drosso\Desktop\Version74\Comun.Soporte.Entidades\bin\Debug\Entidades.Seguridad.xml
+C:\Users\drosso\Desktop\Version74\Comun.Soporte.Entidades\obj\Debug\Comunes.Soporte.Entidades.vbprojResolveAssemblyReference.cache
+C:\Users\drosso\Desktop\Version74\Comun.Soporte.Entidades\obj\Debug\Resources.resources
+C:\Users\drosso\Desktop\Version74\Comun.Soporte.Entidades\obj\Debug\Comunes.Soporte.Entidades.vbproj.GenerateResource.Cache
+C:\Users\drosso\Desktop\Version74\Comun.Soporte.Entidades\obj\Debug\Entidades.Soporte.dll
+C:\Users\drosso\Desktop\Version74\Comun.Soporte.Entidades\obj\Debug\Entidades.Soporte.xml
+C:\Users\drosso\Desktop\Version74\Comun.Soporte.Entidades\obj\Debug\Entidades.Soporte.pdb
+C:\Users\drosso\Desktop\Version75\Version75\Comun.Soporte.Entidades\bin\Debug\Entidades.Soporte.dll
+C:\Users\drosso\Desktop\Version75\Version75\Comun.Soporte.Entidades\bin\Debug\Entidades.Soporte.pdb
+C:\Users\drosso\Desktop\Version75\Version75\Comun.Soporte.Entidades\bin\Debug\Entidades.Soporte.xml
+C:\Users\drosso\Desktop\Version75\Version75\Comun.Soporte.Entidades\bin\Debug\Entidades.Seguridad.dll
+C:\Users\drosso\Desktop\Version75\Version75\Comun.Soporte.Entidades\bin\Debug\Entidades.Seguridad.pdb
+C:\Users\drosso\Desktop\Version75\Version75\Comun.Soporte.Entidades\bin\Debug\Entidades.Seguridad.xml
+C:\Users\drosso\Desktop\Version75\Version75\Comun.Soporte.Entidades\obj\Debug\Comunes.Soporte.Entidades.vbprojResolveAssemblyReference.cache
+C:\Users\drosso\Desktop\Version75\Version75\Comun.Soporte.Entidades\obj\Debug\Resources.resources
+C:\Users\drosso\Desktop\Version75\Version75\Comun.Soporte.Entidades\obj\Debug\Comunes.Soporte.Entidades.vbproj.GenerateResource.Cache
+C:\Users\drosso\Desktop\Version75\Version75\Comun.Soporte.Entidades\obj\Debug\Entidades.Soporte.dll
+C:\Users\drosso\Desktop\Version75\Version75\Comun.Soporte.Entidades\obj\Debug\Entidades.Soporte.xml
+C:\Users\drosso\Desktop\Version75\Version75\Comun.Soporte.Entidades\obj\Debug\Entidades.Soporte.pdb
+C:\DD\TFI\Gestion.Solucion\Version76\Comun.Soporte.Entidades\bin\Debug\Entidades.Soporte.dll
+C:\DD\TFI\Gestion.Solucion\Version76\Comun.Soporte.Entidades\bin\Debug\Entidades.Soporte.pdb
+C:\DD\TFI\Gestion.Solucion\Version76\Comun.Soporte.Entidades\bin\Debug\Entidades.Soporte.xml
+C:\DD\TFI\Gestion.Solucion\Version76\Comun.Soporte.Entidades\bin\Debug\Entidades.Seguridad.dll
+C:\DD\TFI\Gestion.Solucion\Version76\Comun.Soporte.Entidades\bin\Debug\Entidades.Seguridad.pdb
+C:\DD\TFI\Gestion.Solucion\Version76\Comun.Soporte.Entidades\bin\Debug\Entidades.Seguridad.xml
+C:\DD\TFI\Gestion.Solucion\Version76\Comun.Soporte.Entidades\obj\Debug\Comunes.Soporte.Entidades.vbprojResolveAssemblyReference.cache
+C:\DD\TFI\Gestion.Solucion\Version76\Comun.Soporte.Entidades\obj\Debug\Resources.resources
+C:\DD\TFI\Gestion.Solucion\Version76\Comun.Soporte.Entidades\obj\Debug\Comunes.Soporte.Entidades.vbproj.GenerateResource.Cache
+C:\DD\TFI\Gestion.Solucion\Version76\Comun.Soporte.Entidades\obj\Debug\Entidades.Soporte.dll
+C:\DD\TFI\Gestion.Solucion\Version76\Comun.Soporte.Entidades\obj\Debug\Entidades.Soporte.xml
+C:\DD\TFI\Gestion.Solucion\Version76\Comun.Soporte.Entidades\obj\Debug\Entidades.Soporte.pdb

@@ -1,0 +1,6 @@
+
+ <asp:DetailsView  runat="server" AutoGenerateRows="False"  CellPadding="4"
+         GridLines="None" >
+        
+    </asp:DetailsView>
+  

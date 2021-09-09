@@ -1,0 +1,695 @@
+@font-face {
+    font-family: 'TrajanProRegular';
+    src: url(../fonts/trajanpro-regular-webfont.eot);
+    src: url(../fonts/trajanpro-regular-webfont.eot?#iefix) format('eot'),
+         url(../fonts/trajanpro-regular-webfont.woff) format('woff'),
+         url(../fonts/trajanpro-regular-webfont.ttf) format('truetype'),
+         url(../fonts/trajanpro-regular-webfont.svg#webfontyzaKTs7D) format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'TrajanProBold';
+    src: url(../fonts/trajanpro-bold-webfont.eot);
+    src: url(../fonts/trajanpro-bold-webfont.eot?#iefix) format('eot'),
+         url(../fonts/trajanpro-bold-webfont.woff) format('woff'),
+         url(../fonts/trajanpro-bold-webfont.ttf) format('truetype'),
+         url(../fonts/trajanpro-bold-webfont.svg#webfontyzaKTs7D) format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+/* No sacar. El siguiente código saca los bordes de las tablas. */
+td, tr {
+	border:0px;
+}
+/**/
+
+OL
+{
+    LIST-STYLE-TYPE: none
+}
+UL
+{
+    LIST-STYLE-TYPE: none
+}
+HTML
+{
+    FONT-FAMILY: Arial;
+    FONT-SIZE: 10pt
+}
+BODY
+{
+    FONT-FAMILY: Arial;
+    FONT-SIZE: 10pt
+}
+STRONG EM
+{
+    FONT-WEIGHT: bold
+}
+BODY
+{
+    PADDING-BOTTOM: 0px;
+    MARGIN: 0px;
+    PADDING-LEFT: 0px;
+    PADDING-RIGHT: 0px;
+    FONT-FAMILY: Arial;
+    BACKGROUND: white;
+    COLOR: black;
+    FONT-SIZE: 10pt;
+    PADDING-TOP: 0px
+}
+A
+{
+    TEXT-DECORATION: none
+}
+A IMG
+{
+    BORDER-BOTTOM: 0px;
+    BORDER-LEFT: 0px;
+    BORDER-TOP: 0px;
+    BORDER-RIGHT: 0px;
+    TEXT-DECORATION: none
+}
+#todo
+{
+}
+#pagina
+{
+    MARGIN: 0px auto;
+    WIDTH: 1003px
+}
+#cuerpo
+{
+    MARGIN: 0px auto;
+    WIDTH: 965px
+}
+#background_superior
+{
+    BACKGROUND: url(../images/layout_background_superior.png) no-repeat center top
+}
+#background_inferior
+{
+    MIN-HEIGHT: 750px;
+    BACKGROUND: url(../images/layout_background_inferior.png) no-repeat center bottom
+}
+
+/* header */
+
+#header {
+	position:			relative;
+	font-family:		'TrajanProBold';
+	color:				#7f7f7f;
+	top:				0px;
+	left:				0px;
+	width:				955px;
+	display:			block;
+	margin:				5px;
+	clear: 				none;
+}
+
+#header .logoTsu {
+	float:				left;
+	width:				215px;
+	margin:				0px 10px 0px 0px;
+}
+
+#mod_Catalogo {
+	width:				460px;
+	margin:				7px 5px 0px 0px;
+	left: 				0px;
+	background-image:	url(../images/modulo_catalogo.gif);
+	background-repeat:	no-repeat;
+	float:				left;
+}
+
+#mod_Catalogo .tapa {
+	width:				90px;
+	margin:				0px 3px 0px 14px;
+	float:				left;
+}
+
+#mod_Catalogo .contenido {
+	height:				67px;
+	display:			block;
+	line-height: 		16px;
+}
+
+#mod_Catalogo .titulo {
+	font-family: 		Arial;
+	font-size:			14px;
+	font-weight:		bold;
+	color: 				#59c2d3;
+}
+
+#mod_Catalogo .texto {
+	font-family: 		Arial;
+	font-size:			14px;
+}
+
+#mod_Catalogo .hora {
+	font-family: 		Arial;
+	font-size:			12px;
+}
+
+#mod_Catalogo .boton {
+	margin:				0px;
+	padding:			0px;
+}
+
+
+#mod_Usuario {
+	width:				250px;
+	margin:				7px 0px 0px 0px;
+	left: 				0px;
+	background-image:	url(../images/modulo_usuario.gif);
+	background-repeat:	no-repeat;
+	float:				left;
+}
+
+#mod_Usuario .texto {
+	height:				65px;
+	margin:				2px 0px 0px 0px;
+	margin-left:		30px;
+	display:			block;
+	font-family: 		Arial;
+	font-size:			12px;
+	line-height:		15px;
+}
+
+
+#mod_Usuario .boton {
+	margin:				0px;
+	padding:			0px 0px 0px 30px;
+}
+
+/* menu */
+
+#menu
+{
+    BORDER-LEFT: black 2px solid;
+    WIDTH: 100%;
+    BACKGROUND: black;
+    FLOAT: left;
+    HEIGHT: 29px;
+    FONT-SIZE: 10pt;
+    /*BORDER-TOP: black 2px solid;*/
+    BORDER-RIGHT: black 2px solid
+}
+#menu A
+{
+    TEXT-ALIGN: center;
+    /*PADDING-BOTTOM: 1px;*/
+    LINE-HEIGHT: 27px;
+    TEXT-TRANSFORM: uppercase;
+    PADDING-LEFT: 20px;
+    PADDING-RIGHT: 20px;
+    DISPLAY: inline-block;
+    FONT-FAMILY: 'TrajanProBold';
+    COLOR: white;
+    padding-top:1px;
+   
+}
+#menu A:hover
+{
+    BACKGROUND: black;
+    COLOR: #999;
+
+    
+}
+#menu A:active
+{
+    BACKGROUND: white;
+    COLOR: #000
+}
+#menu A.on
+{
+    BACKGROUND: white;
+    COLOR: black
+}
+#contenedor
+{
+    PADDING-BOTTOM: 30px;
+    PADDING-LEFT: 20px;
+    PADDING-RIGHT: 20px;
+    FLOAT: left;
+    PADDING-TOP: 30px
+}
+#columnaIzquierda
+{
+    PADDING-BOTTOM: 0px;
+    LIST-STYLE-TYPE: none;
+    PADDING-LEFT: 0px;
+    WIDTH: 180px;
+    PADDING-RIGHT: 0px;
+    FLOAT: left;
+    MARGIN-RIGHT: 30px;
+    PADDING-TOP: 0px
+}
+#columnaIzquierda TR
+{
+    PADDING-BOTTOM: 0px;
+    MARGIN: 0px;
+    PADDING-LEFT: 0px;
+    PADDING-RIGHT: 0px;
+    PADDING-TOP: 0px;
+    
+}
+#columnaIzquierda TD
+{
+    PADDING-BOTTOM: 0px;
+    MARGIN: 0px;
+    PADDING-LEFT: 0px;
+    PADDING-RIGHT: 0px;
+    PADDING-TOP: 0px;
+    WIDTH: 180px;
+}
+#columnaIzquierda TD A
+{
+    PADDING-BOTTOM: 0px;
+    BACKGROUND-COLOR: #f5f5f5;
+    PADDING-LEFT: 15px;
+    PADDING-RIGHT: 0px;
+    DISPLAY: block;
+    FONT-FAMILY: Arial;
+    MARGIN-BOTTOM: 2px;
+    HEIGHT: 21px;
+    COLOR: #676767;
+    FONT-SIZE: 11px;
+    PADDING-TOP: 5px
+}
+#columnaIzquierda TD A:hover
+{
+    BACKGROUND-COLOR: #ccc;
+    COLOR: #676767
+}
+#columnaIzquierda TD A:active
+{
+    BACKGROUND-COLOR: #ccc;
+    COLOR: #676767
+}
+#centro
+{
+    WIDTH: 715px;
+    FLOAT: left
+}
+#columnaDerecha
+{
+    WIDTH: 180px;
+    MARGIN-LEFT: 30px
+}
+#tituloSeccion
+{
+    /*BORDER-BOTTOM: #999 1px dashed;*/
+    PADDING-BOTTOM: 0px;
+    MARGIN: 0px 0px 10px;
+    PADDING-LEFT: 0px;
+    WIDTH: 715px;
+    PADDING-RIGHT: 0px;
+    DISPLAY: block;
+    HEIGHT: 65px;
+    PADDING-TOP: 0px
+}
+#tituloSeccion .Titulo
+{
+    PADDING-BOTTOM: 0px;
+    TEXT-TRANSFORM: uppercase;
+    MARGIN: 0px;
+    PADDING-LEFT: 0px;
+    PADDING-RIGHT: 0px;
+    FONT-FAMILY: 'TrajanProBold';
+    HEIGHT: 27px;
+    COLOR: black;
+    FONT-SIZE: 27px;
+    PADDING-TOP: 0px
+}
+#tituloSeccion .subTitulo
+{
+    PADDING-BOTTOM: 10px;
+    MARGIN: 10px 0px 0px;
+    PADDING-LEFT: 0px;
+    PADDING-RIGHT: 0px;
+    FONT-FAMILY: Arial;
+    COLOR: #59c2d3;
+    FONT-SIZE: 14px;
+    FONT-WEIGHT: bold;
+    PADDING-TOP: 0px;
+    BORDER-BOTTOM: #999 1px dashed;
+}
+#footer_background
+{
+    BACKGROUND: url(../images/footer_background.png) #6d6d6d no-repeat center top
+}
+#footer
+{
+    MARGIN: 0px auto;
+    WIDTH: 965px;
+    HEIGHT: 53px;
+    PADDING-TOP: 45px
+}
+#footer_disclaimer
+{
+    COLOR: white;
+    FONT-SIZE: 8pt
+}
+#footer_logo
+{
+    TEXT-ALIGN: right
+}
+H1
+{
+    FONT-FAMILY: Arial;
+    COLOR: #676767;
+    FONT-SIZE: 12px;
+    PADDING-TOP: 5px
+}
+H1 A
+{
+    FONT-FAMILY: Arial;
+    COLOR: #676767;
+    FONT-SIZE: 12px;
+    FONT-WEIGHT: bold
+}
+H2
+{
+    FONT-FAMILY: Arial;
+    COLOR: #676767;
+    FONT-SIZE: 16px;
+    PADDING-TOP: 5px
+}
+H3
+{
+    COLOR: #676767
+}
+.teclado_virtual
+{
+    WIDTH: 100%;
+    MARGIN-BOTTOM: 10px
+}
+.dirEnvio
+{
+    BORDER-BOTTOM: #999 1px dashed;
+    MARGIN-BOTTOM: 10px;
+    HEIGHT: 35px
+}
+.mensaje_contenedor {
+	width:				100%;
+	border: 0px;
+	/*margin-bottom:		10px;*/
+}
+
+.mensaje_ok_715, .mensaje_ok_505, .mensaje_info_715, .mensaje_info_505, .mensaje_error_715, .mensaje_error_505, .mensaje_advertencia_715, .mensaje_advertencia_505 {
+    border:				1px solid;
+    margin: 			10px 0px;
+    padding:			15px 15px 15px 35px;
+    background-repeat:	no-repeat;
+    /*background-position:10px 15px;*/
+	font-size:			12px;
+}
+
+.mensaje_ok_505
+{
+    background-image:	url(../images/alerta_verde1.gif);
+	color: 				#007a07;
+	background-color:	#58d95f;
+}
+.mensaje_ok_715
+{
+    background-image:	url(../images/alerta_verde1.gif);
+	color: 				#007a07;
+	background-color:	#58d95f;
+}
+.mensaje_info_505
+{
+    background-image: 	url(../images/alerta_azul1.gif);
+	color:				#00529B;
+	background-color:	#50b9f6;
+}
+.mensaje_info_715
+{
+    background-image: 	url(../images/alerta_azul1.gif);
+	color:				#00529B;
+	background-color:	#50b9f6;
+}
+.mensaje_error_505
+{
+    background-image:	url(../images/alerta_roja1.gif);
+	color:				#a00009;
+	background-color:	#ff676e;
+}
+.mensaje_error_715
+{
+    background-image:	url(../images/alerta_roja1.gif);
+	color:				#a00009;
+	background-color:	#ff676e;
+}
+.mensaje_advertencia_505
+{
+    background-image: 	url(../images/alerta_amarilla1.gif);
+	color:				#9F6000;
+	background-color:	#e0c32c;
+}
+.mensaje_advertencia_715
+{
+    background-image: 	url(../images/alerta_amarilla1.gif);
+	color:				#9F6000;
+	background-color:	#e0c32c;
+}
+
+.mensaje_blanco_715 {
+	background-image: 	url(../images/alerta_blanca2.gif);
+	background-repeat:	no-repeat;
+	width:				665px;
+	height:				47px;
+	margin:				0px;
+	margin-bottom:		10px;
+	padding:			0px 10px 0px 40px;
+	display: 			table-cell;
+	vertical-align:		middle;
+}
+
+.tablaTitulo1
+{
+    BACKGROUND-IMAGE: url(../images/fondo_cargarProducto.gif);
+    LINE-HEIGHT: 30px;
+    BACKGROUND-REPEAT: repeat-x;
+    HEIGHT: 30px;
+    FONT-WEIGHT: bold
+}
+.tablaTitulo2
+{
+    BACKGROUND-IMAGE: url(../images/tablaTitulo2.gif);
+    BACKGROUND-REPEAT: repeat-x;
+    HEIGHT: 30px;
+    COLOR: black
+}
+.tablaFila1
+{
+    BACKGROUND-IMAGE: url(../images/tablaFila1.gif);
+    HEIGHT: 30px
+}
+.tablaFila2
+{
+    BACKGROUND-IMAGE: url(../images/tablaFila2.gif);
+    HEIGHT: 30px
+}
+.tablaSeparador1
+{
+    BORDER-BOTTOM: #999 1px dashed;
+    PADDING-BOTTOM: 10px;
+    MARGIN-BOTTOM: 10px
+}
+.tablaSeparador2
+{
+    PADDING-BOTTOM: 10px;
+    MARGIN-BOTTOM: 10px
+}
+
+/*
+ANTERIOR
+.advertenciaStock
+{
+    BACKGROUND-IMAGE: url('../images/bullet_error.png');
+    LINE-HEIGHT: 15px;
+    MARGIN-TOP: 10px;
+    TEXT-INDENT: 20px;
+    BACKGROUND-REPEAT: no-repeat;
+    MARGIN-BOTTOM: 10px;
+    FONT-SIZE: 11px;
+	width: 734px;
+	height: 15px;
+}*/
+
+
+.advertenciaStock 
+{
+	font-size:10px;
+	text-indent:20px;
+	line-height:15px;
+	margin-bottom:10px;
+	text-align:right;
+}
+
+
+#GDZ_datosRevendedora
+{
+    BACKGROUND-IMAGE: url(../images/fondo_cargarProducto.gif);
+    BACKGROUND-REPEAT: no-repeat;
+    MARGIN-BOTTOM: 10px
+}
+#GDZ_habilitacionRevendedora
+{
+    BORDER-BOTTOM: #999 1px dashed;
+    PADDING-BOTTOM: 10px;
+    MARGIN-BOTTOM: 10px
+}
+#GDZ_ingresarCuenta
+{
+    BORDER-BOTTOM: #999 1px dashed;
+    PADDING-BOTTOM: 10px;
+    MARGIN-BOTTOM: 10px
+}
+#GDZ_elegirZona
+{
+    BORDER-BOTTOM: #999 1px dashed;
+    PADDING-BOTTOM: 10px;
+    MARGIN-BOTTOM: 10px
+}
+.TextoCantidad
+{
+     text-align:right;
+     width:40px;
+     height:20px;
+     background-color:#D6F1F5;
+     border: 1px solid #999;
+    }
+    
+    #alertadamian
+    {
+                display: none;
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: #000;
+            z-index:1001;
+            opacity:.85;
+            -moz-opacity: 0.85;
+            filter: alpha(opacity=85);
+    }
+    
+    #ctl00_ContentPlaceHolder1_grillaPremios1_ListaProductos
+    {
+    	width: 715px;
+    	border: none;
+    	
+    }
+    
+    
+    .tablaFilaDestacada
+    {
+        	height:30px;
+	background-image:url(../images/Fondo_destacad.gif);
+        }
+        
+        
+       
+   /* calendario*/
+.black .ajax__calendar_container
+{
+width:190px;
+background-color: #000000; border:solid 1px #666666;
+-moz-border-radius-topleft: 8px; -webkit-border-top-left-radius: 8px; -khtml-border-top-left-radius: 8px; border-top-left-radius: 8px;
+-moz-border-radius-topright: 8px; -webkit-border-top-right-radius: 8px; -khtml-border-top-right-radius: 8px; border-top-right-radius: 8px; 
+-moz-border-radius-bottomleft: 8px; -webkit-border-bottom-left-radius: 8px; -khtml-border-bottom-left-radius: 8px; border-bottom-left-radius: 8px;
+-moz-border-radius-bottomright: 8px; -webkit-border-bottom-right-radius: 8px; -khtml-border-bottom-right-radius: 8px; border-bottom-right-radius: 8px;
+}
+.black .ajax__calendar_body
+{
+width:180px;
+height:150px;
+background-color: #000000; border: solid 1px #666666;
+}
+.black .ajax__calendar_header
+{
+background-color: #626262; margin-bottom: 8px;
+-moz-border-radius-topleft: 4px; -webkit-border-top-left-radius: 4px; -khtml-border-top-left-radius: 4px; border-top-left-radius: 4px;
+-moz-border-radius-topright: 4px; -webkit-border-top-right-radius: 4px; -khtml-border-top-right-radius: 4px; border-top-right-radius: 4px; 
+-moz-border-radius-bottomleft: 4px; -webkit-border-bottom-left-radius: 4px; -khtml-border-bottom-left-radius: 4px; border-bottom-left-radius: 4px;
+-moz-border-radius-bottomright: 4px; -webkit-border-bottom-right-radius: 4px; -khtml-border-bottom-right-radius: 4px; border-bottom-right-radius: 4px;
+} 
+.black .ajax__calendar_title
+{
+color: #ffffff; padding-top: 3px;
+}
+.black .ajax__calendar_next,
+.black .ajax__calendar_prev
+{
+border:solid 4px #ffffff;
+background-color: #ffffff;
+-moz-border-radius-topleft: 18px; -webkit-border-top-left-radius: 18px; -khtml-border-top-left-radius: 18px; border-top-left-radius: 18px;
+-moz-border-radius-topright: 18px; -webkit-border-top-right-radius: 18px; -khtml-border-top-right-radius: 18px; border-top-right-radius: 18px; 
+-moz-border-radius-bottomleft: 18px; -webkit-border-bottom-left-radius: 18px; -khtml-border-bottom-left-radius: 18px; border-bottom-left-radius: 18px;
+-moz-border-radius-bottomright: 18px; -webkit-border-bottom-right-radius: 18px; -khtml-border-bottom-right-radius: 18px; border-bottom-right-radius: 18px;
+}
+.black .ajax__calendar_hover .ajax__calendar_next,
+.black .ajax__calendar_hover .ajax__calendar_prev
+{
+border:solid 4px #328BC8;
+background-color: #ffffff;
+-moz-border-radius-topleft: 4px; -webkit-border-top-left-radius: 4px; -khtml-border-top-left-radius: 4px; border-top-left-radius: 4px;
+-moz-border-radius-topright: 4px; -webkit-border-top-right-radius: 4px; -khtml-border-top-right-radius: 4px; border-top-right-radius: 4px; 
+-moz-border-radius-bottomleft: 4px; -webkit-border-bottom-left-radius: 4px; -khtml-border-bottom-left-radius: 4px; border-bottom-left-radius: 4px;
+-moz-border-radius-bottomright: 4px; -webkit-border-bottom-right-radius: 4px; -khtml-border-bottom-right-radius: 4px; border-bottom-right-radius: 4px;
+}
+.black .ajax__calendar_dayname
+{
+text-align:center; margin-bottom: 4px; margin-top: 2px;
+color:#ffffff;
+background-color: #000000;
+} 
+.black .ajax__calendar_day,
+.black .ajax__calendar_month,
+.black .ajax__calendar_year
+{
+margin:1px 1px 1px 1px;
+text-align:center;
+border:solid 1px #000000;
+color:#ffffff;
+background-color: #626262;
+}
+.black .ajax__calendar_hover .ajax__calendar_day,
+.black .ajax__calendar_hover .ajax__calendar_month,
+.black .ajax__calendar_hover .ajax__calendar_year
+{
+color: #ffffff; font-weight:bold; background-color: #328BC8;border:solid 1px #328BC8;
+}
+.black .ajax__calendar_active .ajax__calendar_day,
+.black .ajax__calendar_active .ajax__calendar_month,
+.black .ajax__calendar_active .ajax__calendar_year
+{
+color: #ffffff; font-weight:bold; background-color: #F7B64A;	
+}
+.black .ajax__calendar_today .ajax__calendar_day
+{
+color: #ffffff; font-weight:bold; background-color: #F7B64A;	
+}
+.black .ajax__calendar_other,
+.black .ajax__calendar_hover .ajax__calendar_today
+{
+color: #ffffff;
+font-weight:bold;
+}
+.black .ajax__calendar_days
+{
+background-color: #000000;
+}
+   /* fin de calendario*/
+#imprimible
+{
+    font-size:20px;
+   }

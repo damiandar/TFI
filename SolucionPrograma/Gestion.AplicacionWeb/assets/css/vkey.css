@@ -1,0 +1,117 @@
+#keyboard
+{
+    position:absolute;
+    BACKGROUND-COLOR: #fffff9;
+    WIDTH: 320px;
+    }
+/*#shifton
+{
+    TEXT-ALIGN: left;
+    WIDTH: 29px
+}*/
+#row0_shift
+{
+    MARGIN: 0px;
+    DISPLAY: none
+}
+#row1_shift
+{
+    MARGIN: 0px;
+    DISPLAY: none
+}
+#row2_shift
+{
+    MARGIN: 0px;
+    DISPLAY: none
+}
+#row3_shift
+{
+    MARGIN: 0px;
+    DISPLAY: none
+}
+ .teclaEnter input
+{
+    border-style: none;
+    border-color: inherit;
+    border-width: 0px;
+    padding: 0px;
+    TEXT-ALIGN: center;
+    MARGIN: 0px;
+    HEIGHT: 17px;
+    FONT-WEIGHT: bolder; 
+    WIDTH: 47px;
+    BACKGROUND: url(../images/enter.gif) no-repeat;
+}
+
+.teclaBack input
+{
+       border-style: none;
+    border-color: inherit;
+    border-width: 0px;
+    padding: 0px;
+    TEXT-ALIGN: center;
+        MARGIN: 0px;
+        WIDTH: 18px;
+        HEIGHT: 17px;
+        FONT-WEIGHT: bolder;
+    BACKGROUND: url(../images/back.gif) no-repeat;
+}
+
+.teclaSpaceBar input
+{    MARGIN: 0px auto 0px 150px;
+    WIDTH: 180px;
+       border-style: none;
+    border-color: inherit;
+    border-width: 0px;
+    padding: 0px;
+    TEXT-ALIGN: center;
+   HEIGHT: 17px;
+        FONT-WEIGHT: bolder;
+    BACKGROUND: url(../images/enter.gif) no-repeat;
+}
+
+
+.teclaShift input
+{
+    border-style: none;
+    border-color: inherit;
+    border-width: 0px;
+    padding: 0px;
+    TEXT-ALIGN: center;
+    MARGIN: 0px;
+    HEIGHT: 17px;
+    WIDTH: 28px;
+    BACKGROUND: url(../images/shift.gif) no-repeat center 50%;
+    FONT-WEIGHT: bolder;
+}
+.estiloTeclas input
+{
+   border-style: none;
+    border-color: inherit;
+    border-width: 0px;
+    padding: 0px;
+    TEXT-ALIGN: center;
+        MARGIN: 0px;
+        WIDTH: 18px;
+        BACKGROUND: url(../images/tecla.gif) no-repeat center 50%;
+        HEIGHT: 17px;
+        FONT-WEIGHT: bolder;
+    }
+.noBackground
+{
+    BACKGROUND: #ffffff
+}
+.estiloTeclas
+{
+   padding: 0px;
+    MARGIN: 0px;
+        WIDTH: 17px;
+        FLOAT: left;
+     
+    }
+.filasTeclas
+{
+    padding: 0px;
+    MARGIN: 0px;
+        CLEAR: both;
+    }

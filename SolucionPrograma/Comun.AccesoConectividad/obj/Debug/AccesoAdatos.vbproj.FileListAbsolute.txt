@@ -1,0 +1,14 @@
+C:\SolucionTP\DAL\bin\Debug\DAL.dll
+C:\SolucionTP\DAL\bin\Debug\DAL.pdb
+C:\SolucionTP\DAL\bin\Debug\DAL.xml
+C:\SolucionTP\DAL\bin\Debug\Entidades.dll
+C:\SolucionTP\DAL\bin\Debug\Entidades.Seguridad.dll
+C:\SolucionTP\DAL\bin\Debug\Entidades.Seguridad.pdb
+C:\SolucionTP\DAL\bin\Debug\Entidades.Seguridad.xml
+C:\SolucionTP\DAL\bin\Debug\Entidades.pdb
+C:\SolucionTP\DAL\bin\Debug\Entidades.xml
+C:\SolucionTP\DAL\obj\Debug\Resources.resources
+C:\SolucionTP\DAL\obj\Debug\AccesoAdatos.vbproj.GenerateResource.Cache
+C:\SolucionTP\DAL\obj\Debug\DAL.dll
+C:\SolucionTP\DAL\obj\Debug\DAL.xml
+C:\SolucionTP\DAL\obj\Debug\DAL.pdb

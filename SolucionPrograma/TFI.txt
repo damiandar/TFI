@@ -1,0 +1,24 @@
+- Solapa Novedades y avisos electrónicos (Newsletter)
+- Ficha de Opinión, ¿qué le pareció el servicio?
+- Encuestas con gráficos (preguntas cerradas para poder hacer un gráfico)
+- Servicio de Ayuda (Faq)
+- Contratación de Productos y Servicios
+- Validaciones de pago electrónico con procedimiento que valide si la tarjeta es válida o no, que a tarjeta tenga dígitos de seguridad.
+- Traking de productos
+- Estado de cuentas corrientes y movimientos, indicando lo que compra, si pagó o no, nota de crédito, debito, cancelación de factura o producto.
+- Comentario, sugerencia del producto
+- Encriptación y desencriptación
+- Reporte de gráficos de encuestas
+- Reporte de fichas de opinión
+- Tiempo de respuesta de necesidades del cliente, traking, cuanto le tarda en llegar al cliente, reporte.
+- Ventas por dái, por mes, por año, en general y por cada producto, graficado.
+- Búsqueda avanzada con filtros
+- Todas las tablas con abm
+- Módulo de help desko mensaje en linea, chat 
+- Back up y restore de aplicación
+- Comparar ganancias de acá a 3 años, qué productos se pueden llegar a destacar
+- Menú con abm, agregar patentes
+- Validaciones de campos en cliente y en servidor
+- Lista blanca y lista negra de tarjetas, comparo con las que tengo, fecha de vencimiento y seguridad.
+- Poder imprimir.
+- Catálogo de navegación 

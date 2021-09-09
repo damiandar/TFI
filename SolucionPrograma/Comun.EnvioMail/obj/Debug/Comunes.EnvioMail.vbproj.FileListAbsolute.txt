@@ -1,0 +1,97 @@
+C:\Users\Gisela\Desktop\SolucionTP\Gestion.Solucion\Comun.EnvioMail\bin\Debug\EnvioMail.dll
+C:\Users\Gisela\Desktop\SolucionTP\Gestion.Solucion\Comun.EnvioMail\bin\Debug\EnvioMail.pdb
+C:\Users\Gisela\Desktop\SolucionTP\Gestion.Solucion\Comun.EnvioMail\bin\Debug\EnvioMail.xml
+C:\Users\Gisela\Desktop\SolucionTP\Gestion.Solucion\Comun.EnvioMail\obj\Debug\Resources.resources
+C:\Users\Gisela\Desktop\SolucionTP\Gestion.Solucion\Comun.EnvioMail\obj\Debug\Comunes.EnvioMail.vbproj.GenerateResource.Cache
+C:\Users\Gisela\Desktop\SolucionTP\Gestion.Solucion\Comun.EnvioMail\obj\Debug\EnvioMail.dll
+C:\Users\Gisela\Desktop\SolucionTP\Gestion.Solucion\Comun.EnvioMail\obj\Debug\EnvioMail.xml
+C:\Users\Gisela\Desktop\SolucionTP\Gestion.Solucion\Comun.EnvioMail\obj\Debug\EnvioMail.pdb
+C:\Users\Gisela\Desktop\SolucionTPv3\Gestion.Solucion\Comun.EnvioMail\obj\Debug\Resources.resources
+C:\Users\Gisela\Desktop\SolucionTPv3\Gestion.Solucion\Comun.EnvioMail\obj\Debug\Comunes.EnvioMail.vbproj.GenerateResource.Cache
+C:\Users\Gisela\Desktop\SolucionTPv3\Gestion.Solucion\Comun.EnvioMail\obj\Debug\EnvioMail.dll
+C:\Users\Gisela\Desktop\SolucionTPv3\Gestion.Solucion\Comun.EnvioMail\obj\Debug\EnvioMail.xml
+C:\Users\Gisela\Desktop\SolucionTPv3\Gestion.Solucion\Comun.EnvioMail\obj\Debug\EnvioMail.pdb
+C:\Users\Gisela\Desktop\SolucionTPv3\Gestion.Solucion\Comun.EnvioMail\bin\Debug\EnvioMail.dll
+C:\Users\Gisela\Desktop\SolucionTPv3\Gestion.Solucion\Comun.EnvioMail\bin\Debug\EnvioMail.pdb
+C:\Users\Gisela\Desktop\SolucionTPv3\Gestion.Solucion\Comun.EnvioMail\bin\Debug\EnvioMail.xml
+C:\Users\Gisela\Desktop\SolucionTPv9\Gestion.Solucion\Comun.EnvioMail\bin\Debug\EnvioMail.dll
+C:\Users\Gisela\Desktop\SolucionTPv9\Gestion.Solucion\Comun.EnvioMail\bin\Debug\EnvioMail.pdb
+C:\Users\Gisela\Desktop\SolucionTPv9\Gestion.Solucion\Comun.EnvioMail\bin\Debug\EnvioMail.xml
+C:\Users\Gisela\Desktop\SolucionTPv9\Gestion.Solucion\Comun.EnvioMail\obj\Debug\Resources.resources
+C:\Users\Gisela\Desktop\SolucionTPv9\Gestion.Solucion\Comun.EnvioMail\obj\Debug\Comunes.EnvioMail.vbproj.GenerateResource.Cache
+C:\Users\Gisela\Desktop\SolucionTPv9\Gestion.Solucion\Comun.EnvioMail\obj\Debug\EnvioMail.dll
+C:\Users\Gisela\Desktop\SolucionTPv9\Gestion.Solucion\Comun.EnvioMail\obj\Debug\EnvioMail.xml
+C:\Users\Gisela\Desktop\SolucionTPv9\Gestion.Solucion\Comun.EnvioMail\obj\Debug\EnvioMail.pdb
+C:\Users\Gisela\Desktop\SolucionTPv11\SolucionTPv9\Gestion.Solucion\Comun.EnvioMail\bin\Debug\EnvioMail.dll
+C:\Users\Gisela\Desktop\SolucionTPv11\SolucionTPv9\Gestion.Solucion\Comun.EnvioMail\bin\Debug\EnvioMail.pdb
+C:\Users\Gisela\Desktop\SolucionTPv11\SolucionTPv9\Gestion.Solucion\Comun.EnvioMail\bin\Debug\EnvioMail.xml
+C:\Users\Gisela\Desktop\SolucionTPv11\SolucionTPv9\Gestion.Solucion\Comun.EnvioMail\obj\Debug\Resources.resources
+C:\Users\Gisela\Desktop\SolucionTPv11\SolucionTPv9\Gestion.Solucion\Comun.EnvioMail\obj\Debug\Comunes.EnvioMail.vbproj.GenerateResource.Cache
+C:\Users\Gisela\Desktop\SolucionTPv11\SolucionTPv9\Gestion.Solucion\Comun.EnvioMail\obj\Debug\EnvioMail.dll
+C:\Users\Gisela\Desktop\SolucionTPv11\SolucionTPv9\Gestion.Solucion\Comun.EnvioMail\obj\Debug\EnvioMail.xml
+C:\Users\Gisela\Desktop\SolucionTPv11\SolucionTPv9\Gestion.Solucion\Comun.EnvioMail\obj\Debug\EnvioMail.pdb
+C:\Users\Gisela\Desktop\Solucion TFI\SolucionTPv9\Gestion.Solucion\Comun.EnvioMail\bin\Debug\EnvioMail.dll
+C:\Users\Gisela\Desktop\Solucion TFI\SolucionTPv9\Gestion.Solucion\Comun.EnvioMail\bin\Debug\EnvioMail.pdb
+C:\Users\Gisela\Desktop\Solucion TFI\SolucionTPv9\Gestion.Solucion\Comun.EnvioMail\bin\Debug\EnvioMail.xml
+C:\Users\Gisela\Desktop\Solucion TFI\SolucionTPv9\Gestion.Solucion\Comun.EnvioMail\obj\Debug\Resources.resources
+C:\Users\Gisela\Desktop\Solucion TFI\SolucionTPv9\Gestion.Solucion\Comun.EnvioMail\obj\Debug\Comunes.EnvioMail.vbproj.GenerateResource.Cache
+C:\Users\Gisela\Desktop\Solucion TFI\SolucionTPv9\Gestion.Solucion\Comun.EnvioMail\obj\Debug\EnvioMail.dll
+C:\Users\Gisela\Desktop\Solucion TFI\SolucionTPv9\Gestion.Solucion\Comun.EnvioMail\obj\Debug\EnvioMail.xml
+C:\Users\Gisela\Desktop\Solucion TFI\SolucionTPv9\Gestion.Solucion\Comun.EnvioMail\obj\Debug\EnvioMail.pdb
+F:\NUEVO\Solucion TFI\SolucionTPv9\Gestion.Solucion\Comun.EnvioMail\bin\Debug\EnvioMail.dll
+F:\NUEVO\Solucion TFI\SolucionTPv9\Gestion.Solucion\Comun.EnvioMail\bin\Debug\EnvioMail.pdb
+F:\NUEVO\Solucion TFI\SolucionTPv9\Gestion.Solucion\Comun.EnvioMail\bin\Debug\EnvioMail.xml
+F:\NUEVO\Solucion TFI\SolucionTPv9\Gestion.Solucion\Comun.EnvioMail\obj\Debug\Resources.resources
+F:\NUEVO\Solucion TFI\SolucionTPv9\Gestion.Solucion\Comun.EnvioMail\obj\Debug\Comunes.EnvioMail.vbproj.GenerateResource.Cache
+F:\NUEVO\Solucion TFI\SolucionTPv9\Gestion.Solucion\Comun.EnvioMail\obj\Debug\EnvioMail.dll
+F:\NUEVO\Solucion TFI\SolucionTPv9\Gestion.Solucion\Comun.EnvioMail\obj\Debug\EnvioMail.xml
+F:\NUEVO\Solucion TFI\SolucionTPv9\Gestion.Solucion\Comun.EnvioMail\obj\Debug\EnvioMail.pdb
+C:\Users\Gisela\Desktop\NUEVO\Solucion TFI\SolucionTPv9\Gestion.Solucion\Comun.EnvioMail\bin\Debug\EnvioMail.dll
+C:\Users\Gisela\Desktop\NUEVO\Solucion TFI\SolucionTPv9\Gestion.Solucion\Comun.EnvioMail\bin\Debug\EnvioMail.pdb
+C:\Users\Gisela\Desktop\NUEVO\Solucion TFI\SolucionTPv9\Gestion.Solucion\Comun.EnvioMail\bin\Debug\EnvioMail.xml
+C:\Users\Gisela\Desktop\NUEVO\Solucion TFI\SolucionTPv9\Gestion.Solucion\Comun.EnvioMail\obj\Debug\Resources.resources
+C:\Users\Gisela\Desktop\NUEVO\Solucion TFI\SolucionTPv9\Gestion.Solucion\Comun.EnvioMail\obj\Debug\Comunes.EnvioMail.vbproj.GenerateResource.Cache
+C:\Users\Gisela\Desktop\NUEVO\Solucion TFI\SolucionTPv9\Gestion.Solucion\Comun.EnvioMail\obj\Debug\EnvioMail.dll
+C:\Users\Gisela\Desktop\NUEVO\Solucion TFI\SolucionTPv9\Gestion.Solucion\Comun.EnvioMail\obj\Debug\EnvioMail.xml
+C:\Users\Gisela\Desktop\NUEVO\Solucion TFI\SolucionTPv9\Gestion.Solucion\Comun.EnvioMail\obj\Debug\EnvioMail.pdb
+C:\Users\Administrador\Desktop\Gestion.Solucion\Comun.EnvioMail\bin\Debug\EnvioMail.dll
+C:\Users\Administrador\Desktop\Gestion.Solucion\Comun.EnvioMail\bin\Debug\EnvioMail.pdb
+C:\Users\Administrador\Desktop\Gestion.Solucion\Comun.EnvioMail\bin\Debug\EnvioMail.xml
+C:\Users\Administrador\Desktop\Gestion.Solucion\Comun.EnvioMail\obj\Debug\Resources.resources
+C:\Users\Administrador\Desktop\Gestion.Solucion\Comun.EnvioMail\obj\Debug\Comunes.EnvioMail.vbproj.GenerateResource.Cache
+C:\Users\Administrador\Desktop\Gestion.Solucion\Comun.EnvioMail\obj\Debug\EnvioMail.dll
+C:\Users\Administrador\Desktop\Gestion.Solucion\Comun.EnvioMail\obj\Debug\EnvioMail.xml
+C:\Users\Administrador\Desktop\Gestion.Solucion\Comun.EnvioMail\obj\Debug\EnvioMail.pdb
+C:\Users\drosso\Desktop\Version28\Comun.EnvioMail\bin\Debug\EnvioMail.dll
+C:\Users\drosso\Desktop\Version28\Comun.EnvioMail\bin\Debug\EnvioMail.pdb
+C:\Users\drosso\Desktop\Version28\Comun.EnvioMail\bin\Debug\EnvioMail.xml
+C:\Users\drosso\Desktop\Version28\Comun.EnvioMail\obj\Debug\Resources.resources
+C:\Users\drosso\Desktop\Version28\Comun.EnvioMail\obj\Debug\Comunes.EnvioMail.vbproj.GenerateResource.Cache
+C:\Users\drosso\Desktop\Version28\Comun.EnvioMail\obj\Debug\EnvioMail.dll
+C:\Users\drosso\Desktop\Version28\Comun.EnvioMail\obj\Debug\EnvioMail.xml
+C:\Users\drosso\Desktop\Version28\Comun.EnvioMail\obj\Debug\EnvioMail.pdb
+C:\DD\TFI\Gestion.Solucion\Version38\Comun.EnvioMail\bin\Debug\EnvioMail.dll
+C:\DD\TFI\Gestion.Solucion\Version38\Comun.EnvioMail\bin\Debug\EnvioMail.pdb
+C:\DD\TFI\Gestion.Solucion\Version38\Comun.EnvioMail\bin\Debug\EnvioMail.xml
+C:\DD\TFI\Gestion.Solucion\Version38\Comun.EnvioMail\obj\Debug\Resources.resources
+C:\DD\TFI\Gestion.Solucion\Version38\Comun.EnvioMail\obj\Debug\Comunes.EnvioMail.vbproj.GenerateResource.Cache
+C:\DD\TFI\Gestion.Solucion\Version38\Comun.EnvioMail\obj\Debug\EnvioMail.dll
+C:\DD\TFI\Gestion.Solucion\Version38\Comun.EnvioMail\obj\Debug\EnvioMail.xml
+C:\DD\TFI\Gestion.Solucion\Version38\Comun.EnvioMail\obj\Debug\EnvioMail.pdb
+C:\DD\TFI\Gestion.Solucion\Version40\Comun.EnvioMail\bin\Debug\EnvioMail.dll
+C:\DD\TFI\Gestion.Solucion\Version40\Comun.EnvioMail\bin\Debug\EnvioMail.pdb
+C:\DD\TFI\Gestion.Solucion\Version40\Comun.EnvioMail\bin\Debug\EnvioMail.xml
+C:\DD\TFI\Gestion.Solucion\Version40\Comun.EnvioMail\obj\Debug\Resources.resources
+C:\DD\TFI\Gestion.Solucion\Version40\Comun.EnvioMail\obj\Debug\Comunes.EnvioMail.vbproj.GenerateResource.Cache
+C:\DD\TFI\Gestion.Solucion\Version40\Comun.EnvioMail\obj\Debug\EnvioMail.dll
+C:\DD\TFI\Gestion.Solucion\Version40\Comun.EnvioMail\obj\Debug\EnvioMail.xml
+C:\DD\TFI\Gestion.Solucion\Version40\Comun.EnvioMail\obj\Debug\EnvioMail.pdb
+C:\Users\drosso\Desktop\Version69\Comun.EnvioMail\bin\Debug\EnvioMail.dll
+C:\Users\drosso\Desktop\Version69\Comun.EnvioMail\bin\Debug\EnvioMail.pdb
+C:\Users\drosso\Desktop\Version69\Comun.EnvioMail\bin\Debug\EnvioMail.xml
+C:\Users\drosso\Desktop\Version69\Comun.EnvioMail\obj\Debug\Comunes.EnvioMail.vbprojResolveAssemblyReference.cache
+C:\Users\drosso\Desktop\Version69\Comun.EnvioMail\obj\Debug\Resources.resources
+C:\Users\drosso\Desktop\Version69\Comun.EnvioMail\obj\Debug\Comunes.EnvioMail.vbproj.GenerateResource.Cache
+C:\Users\drosso\Desktop\Version69\Comun.EnvioMail\obj\Debug\EnvioMail.dll
+C:\Users\drosso\Desktop\Version69\Comun.EnvioMail\obj\Debug\EnvioMail.xml
+C:\Users\drosso\Desktop\Version69\Comun.EnvioMail\obj\Debug\EnvioMail.pdb

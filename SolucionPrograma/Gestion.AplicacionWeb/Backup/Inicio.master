@@ -1,0 +1,112 @@
+﻿<%@ Master Language="VB" CodeFile="Inicio.master.vb" Inherits="Inicio" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<%@ Register src="controles/cabecera.ascx" tagname="cabecera" tagprefix="uc1" %>
+
+<%@ Register src="controles/MenuSuperior.ascx" tagname="MenuSuperior" tagprefix="uc2" %>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1" runat="server">
+    <title>Página sin título</title>
+ <link href="assets/css/frontend_base.css" rel="stylesheet" type="text/css" />
+<link rel="shortcut icon" href="assets/images/tsu.ico" />
+
+<!-- Mensajes de alerta en una ventana -->
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.1/jquery.min.js"></script>
+	
+
+        
+
+</head>
+<body>
+ <form id="form1" runat="server">
+   <div id="todo"> 
+  <div id="pagina"> 
+		<div id="background_superior"> 
+			<div id="background_inferior"> 
+				<div id="cuerpo"> 
+					
+                    <div id="header"> 
+						<div class="logoTsu">
+                    	<a href=" " target="_blank" >
+                            <asp:Image ID="ImagenLogo"  width="215" height="104" ImageUrl="assets/images/imagen_logo.png" runat="server" />
+                    	</a>
+                    	</div>
+
+                  
+                  
+					</div>
+					<%--menu superior--%>
+                    <div id="menu"> 
+                    <%--        <asp:Menu ID="MenuSuperior" Orientation="Horizontal"  runat="server" >    
+                            </asp:Menu>DataSourceID="SiteMapDataSource8" --%>
+                            <%--<asp:SiteMapDataSource   ShowStartingNode="false"  SiteMapProvider="menusuperiorMap" ID="SiteMapDataSource8" runat="server" />--%>
+                     <%--   <asp:Menu ID="Menu1" Orientation="Horizontal" runat="server">
+                        </asp:Menu>--%>
+                        
+            
+<%--                        <uc2:MenuSuperior ID="MenuSuperior1" runat="server" />--%>
+                    <a href="../login.aspx" >Inicio</a>
+    				<a href="manual/ManualInicio.htm">ayuda</a>
+            
+                     </div>
+                    <div id="contenedor">
+					<%--	menu izquierda--%>
+				    <div id="columnaIzquierda">
+					      <%--  <asp:Menu ID="Menu1" Visible="false" runat="server" DataSourceID="SiteMapDataSource1" >    
+                            </asp:Menu>
+                            <asp:SiteMapDataSource ID="SiteMapDataSource1" ShowStartingNode="false" SiteMapProvider="menurevendedoraMap" runat="server" />
+
+                            <br />
+                            <asp:Label ID="lblRevendedora" runat="server" Text="REVENDEDORAS"></asp:Label> 
+
+   --%>
+                    <asp:ContentPlaceHolder id="Menu" runat="server">
+                    </asp:ContentPlaceHolder>
+
+                    </div>
+					<%--	fin menu izquierda--%>
+                    	<div id="centro">
+							<div id="tituloSeccion">
+                        		
+           <asp:ContentPlaceHolder id="Head" runat="server">
+    </asp:ContentPlaceHolder>
+</div>
+<div style="width:715px;  float:left;">
+<!-- InstanceBeginEditable name="Centro" -->
+<asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+ </asp:ContentPlaceHolder>	
+ <!-- InstanceEndEditable --> 
+                        	</div>
+						</div>
+          			</div>
+			<div style="clear:both"></div>
+                    
+				</div>
+			</div>
+		</div> 
+	</div> 
+</div>
+
+<div id="footer_background"> 
+	<div id="footer"> 
+		<div> 
+			<div > 
+				<%--<div id="footer_disclaimer"> 
+				TSU Cosméticos 2011 - Todos los derechos reservados. 
+                    <asp:HyperLink ID="HyperLink1" onclick="window.open('../terminosycondiciones.htm', '_blank', 'width=640,height=480,scrollbars=yes,status=no,resizable=yes,screenx=0,screeny=0');"
+                    runat="server" Font-Underline="true" ForeColor="Blue"  >Términos y Condiciones</asp:HyperLink>
+				</div>--%>
+				<div id="footer_disclaimer"> 
+					Lavadero Boutique - Todos los derechos reservados -
+					<a id="A1" href='javascript:void(0);' onclick="window.open('../terminosycondiciones.htm', '_blank', 'width=640,height=480,scrollbars=yes,status=no,resizable=yes,screenx=0,screeny=0');"
+					 runat="server">T&eacute;rminos y Condiciones</a>.
+				</div>
+			</div> 
+		</div> 
+	</div> 
+</div>
+
+</form>
+</body>
+</html>

@@ -1,0 +1,64 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+BLL.Seguridad
+</name>
+</assembly>
+<members>
+<member name="P:BLL.Seguridad.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:BLL.Seguridad.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:BLL.Seguridad.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="M:BLL.Seguridad.Mapper_Familia.MuestraUnaFamilia(System.Int32)">
+	<summary>
+ Muestra una familia 
+ </summary>
+	<param name="IdFamilia"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:BLL.Seguridad.Mapper_Familia.Muestralistafamilia">
+	<summary>
+ Muestra el listado de familias
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:BLL.Seguridad.Mapper_Familia.InsertaFamilia(Entidades.Seguridad.Familia)">
+	<summary>
+ Inserta una familia
+ </summary>
+	<param name="UnaFamilia"></param>
+	<remarks></remarks>
+</member><member name="M:BLL.Seguridad.Mapper_Familia.MostrarFamiliaUsuario(System.String)">
+	<summary>
+ Muestra la familia del usuario seleccionado.
+ </summary>
+	<param name="Login"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:BLL.Seguridad.Mapper_Familia.ModificarRolUsuario(System.String,System.Int32)">
+	<summary>
+ Modifica la familia del usuario
+ </summary>
+	<param name="Login"></param>
+	<param name="idFamilia"></param>
+	<remarks></remarks>
+</member><member name="M:BLL.Seguridad.Mapper_Familia.AsignarRol(System.Int32,System.Int32)">
+	<summary>
+ Asigna la familia al usuario
+ </summary>
+	<param name="idFamilia"></param>
+	<param name="idUsuario"></param>
+	<remarks></remarks>
+</member>
+</members>
+</doc>

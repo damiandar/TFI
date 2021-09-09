@@ -1,0 +1,42 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Gestion.DAL
+</name>
+</assembly>
+<members>
+<member name="T:My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="M:DALCategoria.MostrarCategorias(System.Int32)">
+ <summary>
+ Muestra las categorias segun el tipo de Catalogo que puede ser Insumo, Producto o Servicio
+ </summary>
+ <param name="TipoCatalogoID"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:DALSubCategoria.MostrarSubCategorias(System.Int32)">
+ <summary>
+ Muestra las subcategorias segun la categoria seleccionada
+ </summary>
+ <param name="CategoriaID"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+</members>
+</doc>

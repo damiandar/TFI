@@ -1,0 +1,119 @@
+﻿<%@ Master Language="VB" CodeFile="mastersinmenu.master.vb" Inherits="Principal" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+
+    <title>Ingreso de pedidos por internet</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="author" content="TSU" />
+<link rel="shortcut icon" href="imagenes/iconos/tsu.ico" />
+<!-- elastic css MENU -->
+
+<link rel="stylesheet" href="css/elastic.css" type="text/css" media="all" charset="utf-8" />
+<script src="js/elastic.js"  type="text/javascript" language="javascript" charset="utf-8"></script>
+
+<!-- custom -->
+<link href="css/reset.css" rel="Stylesheet" type="text/css" />
+<link href="css/frontend_base.css" rel="stylesheet" type="text/css" />
+<!-- extra css -->
+
+<link href="css/frontend_nosotros.css" rel="stylesheet" type="text/css" />
+
+
+    
+</head>
+<body>
+    <form id="form1" runat="server">
+  
+    
+    
+    
+    <div id="todo"> 
+	<div id="pagina"> 
+		<div id="background_superior"> 
+			<div id="background_inferior"> 
+				<div id="cuerpo"> 
+					<div id="header"> 
+					  <div id="header_telefono"> 
+							0810-321-4878  
+						</div> 
+						<div class="columns"> 
+							<div class="fixed column" style="width:500px"> 
+								<div id="header_logo"><a href=" " target="_blank" >
+                                    <asp:Image ID="Image1" runat="server" ImageUrl="imagenes/imagen_logo.png" /></a></div> 
+							</div> 
+							<div class="elastic column">
+						
+							</div> 
+						</div> 
+					</div> 
+					<div id="menu">
+          <div class="columns">
+           <div class="fixed column" style="width:87px;" ><a href="../Login.aspx"   >INICIO</a></div>
+         </div>
+        </div>
+          
+
+
+<div id="container">
+
+    
+	<!-- InstanceBeginEditable name="izquierda" -->
+
+	 
+	  <asp:ContentPlaceHolder id="Head" runat="server">
+        
+        </asp:ContentPlaceHolder>
+	  
+	  <div class="borde_titulo"></div>
+	  <div >
+	    <div class="banner"> 
+	    
+	    
+        <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+	    
+	    
+	    
+	    
+	    </div>
+	    <div class="banner">
+	      <div class="bannerUbicacion"></div>
+	      <div class="bannerUbicacionMedio"></div>
+	      <div class="bannerUbicacion"></div>
+	      </div>
+	    </div>
+	 
+     
+     
+     <!--aca termina izquierda-->
+     
+      <div style="clear:both"></div>
+</div>
+
+
+
+
+				</div> 
+			</div> 
+		</div> 
+	</div> 
+	<div id="footer_background"> 
+		<div id="footer"> 
+			<div class="columns"> 
+				<div class="column"> 
+					<div id="footer_disclaimer"> 
+						Lavadero Boutique - Todos los derechos reservados.   <asp:LoginStatus ID="LoginStatus1" runat="server" LogoutAction="Redirect" LogoutPageUrl="~/Logout.aspx" />
+
+					</div> 
+				</div> 
+			</div> 
+		</div> 
+	</div> 
+</div>
+  </form>
+</body>
+</html>

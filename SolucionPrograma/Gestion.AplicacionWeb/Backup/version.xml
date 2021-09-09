@@ -1,0 +1,239 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<versiones>
+  <version nro="1.0" fecha="20110630" hora="1030">
+    Cambios en la cabecera, en motivos de nc y cyr.
+    Usuario V.
+  </version>
+  <version nro="1.1" fecha="20110701" hora="1300">
+    Cambios en contacto, el menu dice habilitacion revendedora y no dice cdg     
+  </version>
+ <version nro="1.2" fecha="20110721" hora="1300">
+    Se modifico el tema de las sesiones, cuando finalizan y el tiempo de inactividad. Tambien se toco la encriptacion   
+  </version>
+  <version nro="1.3" fecha="20110722" hora="1634">
+    Se modifico las pantallas de sesiones, toma el timeout del server, pantalla de contacto, mail de contacto. 
+  </version>
+ <version nro="1.4" fecha="20110725" hora="1200">
+    Se modifico el capcha, ahora se usa reCaptcha, cambie unos errores con el timeout. 
+  </version>
+ <version nro="1.5" fecha="20110725" hora="1530">
+    Finalizacion de carga en el horario de cierre de campaña. 
+  </version>
+  <version nro="1.6" fecha="20110726" hora="1100">
+    Seleccionar la cantidad solicitada en la grilla al modificar, manda el mail con la password.
+  </version>
+  <version nro="2.1" fecha="20110819" hora="1630">
+todos los cambios de estetica y mejora en los controles
+  </version>
+  <version nro="2.2" fecha="20110824" hora="1600">
+    Detalles de estetica, se agrega el manual de ayuda al inicio
+  </version>
+  <version nro="2.3" fecha="20110826" hora="0900">
+    Mejoras usuario P, grillas unificadas, usuario nuevo contraseña a email
+  </version>
+  <version nro="2.4" fecha="20110826" hora="1600">
+    CDG buscar por nombre, grilla premios,inhabilitar boton borrar todo el pedido en grillas para la cordinadora
+  </version>
+  <version nro="2.5" fecha="20110905" hora="1300">
+    CDG cambio para usuario u, cambio en el menu, mas minutos de inactividad
+  </version>
+  <version nro="2.6" fecha="20110907" hora="1100">
+    Terminos y condiciones, usuario nuevo activo=nothing,distintos manuales
+  </version>
+  <version nro="2.7" fecha="20110914" hora="0900">
+    Se modifico los forms de usuario nuevo, olvido de contraseña y algunas cosas mas pedidas en la reunion
+  </version>
+  <version nro="3.1" fecha="20110922" hora="1115">
+    Se hicieron cambios en la base, se agrego otro campo a pedidosd, se quito zona de pedidosc, se agregaron requisitos de la reunion. Apunta a la base de prueba.
+  </version>
+  <version nro="3.2" fecha="20110926" hora="1030">
+    Carga masiva productos duplicados, usuario I para usuario nuevo.
+  </version>
+  <version nro="3.3" fecha="20110929" hora="1600">
+    Se cambio la ruta del log, se modificaron listados.
+  </version>
+  <version nro="3.4" fecha="20111003" hora="1500">
+    Cambios con la cabecera pedidos, cambio mensaje usuario nuevo.
+  </version>
+  <version nro="3.5" fecha="20111005" hora="1600">
+    Cambio manual usuario.
+  </version>
+  <version nro="3.6" fecha="20111007" hora="1500">
+    Cambio envio de mail, abre catálogo y ayuda en otra pagina.
+  </version>
+  <version nro="3.7" fecha="20111012" hora="1500">
+    Carga masiva cambio de cabecera, se arreglo lo de la imagen superpuesta.
+  </version>
+  <version nro="3.8" fecha="20111110" hora="1640">
+    cambio en la imagen principal oculta div, cambio en las preguntas, pretendencia.
+  </version>
+  <version nro="3.9" fecha="20111114" hora="0900">
+    Cambios Marcela
+  </version>
+  <version nro="4.0" fecha="20111114" hora="0900">
+    Recompilacion para domicilio de opcion. 
+  </version>
+  <version nro="4.1" fecha="20111121" hora="1400">
+    Olvide mi contraseña response write. 
+  </version>
+  <version nro="4.2" fecha="20111121" hora="1450">
+    Se agregan campos en la tabla usuario
+  </version>
+  <version nro="4.3" fecha="20111123" hora="0950">
+    Carga masiva se agrega el combo de campaña
+  </version>
+  <version nro="4.4" fecha="20111129" hora="0950">
+    Cambio en la carpeta log y en grupo y zona anterior
+  </version>
+  <version nro="4.5" fecha="20111130" hora="1620">
+   Saco el 2 de carga masiva y cambio el mensaje de datos personales.
+  </version>
+  <version nro="4.6" fecha="20111201" hora="0910">
+    En el envio de mails se configuran las cuentas reales de gerentas en olvido y datos personales.
+  </version>
+  <version nro="4.7" fecha="20111215" hora="1500">
+    Se modifica estado de deuda, error zona=0 usuarios U y V
+  </version>
+  <version nro="4.8" fecha="20111216" hora="1515">
+    Se modifica estado de deuda pero ademas no se permite ver a usuario U, se modifico la actualizacion de cabecera cuando se elimina todo el pedido.
+  </version>
+  <version nro="4.9" fecha="20111220" hora="1100">
+    Se cambia el log xml por una tabla en la base.
+  </version>
+  <version nro="5.0" fecha="20111226" hora="1500">
+    Cabecera en carga masiva, se agrega el session para que lea el verdadero.
+  </version>
+  <version nro="5.1" fecha="20111228" hora="1525">
+    Se cambia la forma de actualizar la cabecera, se cambia el link de la imagen de inicio.
+  </version>
+  <version nro="5.2" fecha="20120103" hora="1600">
+    Se agrega la ayuda al inicio con pdf y online.
+  </version>
+  <version nro="5.3" fecha="20120109" hora="1000">
+    Se agrega un evento para actualizar la cabecera en carga masiva.
+  </version>
+  <version nro="5.4" fecha="20120110" hora="1300">
+    Historico de pedidos c se arreglo el metodo construir con objeto
+  </version>
+  <version nro="5.5" fecha="20120110" hora="1350">
+    Historico de pedidos c se agrego cantidad unidades
+  </version>
+  <version nro="5.6" fecha="20120119" hora="1350">
+    Se agrega la restriccion con el horario de carga. Se modifico la estadistica general.
+  </version>
+  <version nro="6.0" fecha="20120301" hora="1515">
+    NUEVA VERSION CON VARIOS CAMBIOS.
+  </version>
+  <version nro="6.1" fecha="20120301" hora="1515">
+    El perfil C en el combo solo carga su propia campaña.
+  </version>
+  <version nro="6.2" fecha="20120307" hora="0900">
+    El perfil C se verifica la campaña cerrada de la revendedora.
+  </version>
+  <version nro="6.3" fecha="20120307" hora="1150">
+    En NC se cambio la carga del combo de campaña de origen.
+  </version>
+  <version nro="6.4" fecha="20120308" hora="1540">
+    Se agrego premios que estaba borrado y ademas redirecciona a los V si no esta cargada la cuenta.
+  </version>
+  <version nro="6.5" fecha="20120309" hora="1146">
+    Se modifica el metodo para encontrar campaña vigente, en domicilio alternativo se inserta el combo.
+  </version>
+  <version nro="6.6" fecha="20120312" hora="1332">
+    Evolucion de pedidos, con exportacion a excel, evolucion gral se modifico la estructura
+  </version>
+  <version nro="6.7" fecha="20120316" hora="1122">
+   Se limita el menu de pretendencia a las zonas habilitadas
+  </version>
+  <version nro="6.8" fecha="20120319" hora="1015">
+    Habilitacion de revendedoras para perfil u y v se ve la grilla 
+  </version>
+  <version nro="6.9" fecha="20120320" hora="1645">
+   Numeracion.
+  </version>
+  <version nro="6.10" fecha="20120322" hora="1400">
+    Restaurar Pedido, evolucion para coordinadoras.
+  </version>
+  <version nro="6.11" fecha="20120323" hora="0900">
+   Cambios en Restaurar Pedidos.
+  </version>
+  <version nro="6.12" fecha="20120330" hora="1530">
+    Cambios en Evolucion de pedidos. Sub select de numeracion pedidosd.
+  </version>
+  <version nro="6.13" fecha="20120404" hora="1045">
+    Cambios en evolucion general por errores con cuenta de Blanca.
+  </version>
+  <version nro="6.14" fecha="20120405" hora="1010">
+    Cambios en evolucion de pedidos combo campania de perfil U y V.
+  </version>
+  <version nro="6.15" fecha="20120412" hora="1530">
+    Cambios en evolucion de pedidos y evolucion general.
+  </version>
+  <version nro="7.0" fecha="20120508" hora="1500">
+	Numeracion de pedidos con trigger
+  </version>
+  <version nro="8.0" fecha="20120629" hora="1050">
+   Cambio de arquitectura.
+  </version>
+  <version nro="8.1" fecha="20120808" hora="1545">
+    Cambios en carpetas
+  </version>
+  <version nro="8.2" fecha="20121005" hora="1600">
+    Ultima version entregable, no contiene folletos ni conferencias.
+  </version>
+  <version nro="8.3" fecha="20121009" hora="0900">
+    Catalogos y carga masiva no llenaba nuevamente el control.
+  </version>
+  <version nro="8.4" fecha="20121009" hora="1630">
+    Habilitacion de zona solucionado.
+  </version>
+  <version nro="8.5" fecha="20121015" hora="0900">
+    Carga de pretendencia coordinadoras, domicilio con cuenta 0 en carga masiva,cuatro digitos.
+  </version>
+  <version nro="8.6" fecha="20121016" hora="0900">
+    Combo de GDZ.
+  </version>
+  <version nro="8.7" fecha="20121017" hora="0900">
+    Ordenamiento de excel con orderby thenby.
+  </version>
+  <version nro="9.0" fecha="20121017" hora="1600">
+    VERSION AJAX
+  </version>
+  <version nro="10.0" fecha="20121221" hora="1500">
+   Conferencias.
+  </version>
+  <version nro="10.1" fecha="20121227" hora="1600">
+    Cambio de zona y grupo.
+  </version>
+  <version nro="10.2" fecha="20121228" hora="1000">
+    Restaurar Pedido.
+  </version>
+  <version nro="11.0" fecha="20130312" hora="1000">
+    Nro de pedido, calendario reparto, habilitacion pretendencia a zonas suplentes.
+  </version>
+  <version nro="11.1" fecha="20130313" hora="1600">
+    Grupo 0 en carga de catalogos y se arreglo el log de domicilio.
+  </version>
+  <version nro="11.2" fecha="20130322" hora="1100">
+    Error ResponseRedirect,Estado Deuda solo perfil G, Varios page.isvalid,Utillog.Eventos.
+  </version>
+  <version nro="11.3" fecha="20130322" hora="1600">
+    Vista Consulta, marce arreglo el join, se agregaron exceptions de clave duplicada.
+  </version>
+  <version nro="11.4" fecha="20130404" hora="1600">
+    Grillas borrar todo el pedido no actualizaba bien la cabecera.
+  </version>
+  <version nro="11.5" fecha="20130409" hora="1130">
+    Mejora en los logs de eventos.
+  </version>
+  <version nro="11.6" fecha="20130412" hora="0930">
+    Calendario reparto para U y V.
+  </version>
+  <version nro="11.7" fecha="20130416" hora="1030">
+    Si se ponia mal la contraseña actual para el cambio de clave mostraba un error que luego no ocultaba si era exitoso el cambio de clave.
+  </version>
+  <version nro="11.8" fecha="20130419" hora="1145">
+    Reemplazamos los bind, por eval en las grillas.
+  </version>
+</versiones>
+
